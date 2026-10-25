@@ -1,0 +1,368 @@
+month: 11
+theme: Mortality
+intro: >
+  November asks us to look at the one appointment none of us can cancel. The Stoics
+  did not dwell on death to frighten themselves; they kept it near so that ordinary
+  days would feel precious, and so that loss, when it came, could be met with an
+  open heart rather than panic.
+days:
+  - day: 1
+    title: Kept in Plain Sight
+    source: E
+    key: "Let death and exile and every other thing"
+    after: 0
+    before: 0
+    reflection: >
+      Keeping death in view sounds grim, yet it often does the opposite. Petty grudges
+      shrink, and the urge to grab more of everything quiets down. When you remember that
+      this season of life will end, the snide email goes unsent and the slow dinner with
+      family starts to feel like the main event of the week.
+    practice: Before a tense conversation today, remind yourself this time together is limited.
+  - day: 2
+    title: The Pause Question
+    source: M
+    key: "pause and ask thyself if death is a dreadful thing"
+    after: 0
+    before: 0
+    reflection: >
+      Try this small test while scrolling, worrying, or stewing over a slight. Would losing
+      this particular thing make death worse? Usually the honest answer is no, and that
+      answer quietly loosens its hold. The question also works in reverse, pointing you
+      toward the moments, like a child's laugh, that truly deserve your attention.
+    practice: Three times today, pause mid-task and ask whether this activity is worth your life.
+  - day: 3
+    title: A Complete Day
+    source: S
+    key: "I am endeavouring to live every day as if it were a complete life"
+    after: 1
+    before: 0
+    reflection: >
+      Seneca is not urging frantic bucket-list living. He means letting each day have a
+      shape of its own, with work done, kindness given, and loose ends tied where possible.
+      A day like that needs no sequel to feel worthwhile. If tomorrow comes, it arrives as
+      a gift rather than a repair job.
+    practice: Before bed, name one thing that made today feel whole, and one thing you finished.
+  - day: 4
+    title: Part of Nature's Work
+    source: M
+    key: "Do not despise death, but be well content with it"
+    after: 0
+    before: 0
+    reflection: >
+      Marcus places dying in the same family as growing taller, going gray, and having
+      children. It belongs to the ordinary rhythm of living things. Seeing it that way
+      does not erase sorrow, but it can remove the sense that something has gone horribly
+      wrong with the world. The leaves falling outside are doing exactly this.
+    practice: Take a short walk and notice one sign of autumn letting go.
+  - day: 5
+    title: No Country Without It
+    source: E
+    key: "Tell me where I can escape death"
+    after: 3
+    before: 0
+    reflection: >
+      Epictetus asks for a map to a place death never visits, knowing none exists. There
+      is relief hidden in that admission. Energy spent hunting for an exit can be spent
+      elsewhere, on how you treat people and how you carry yourself. What cannot be
+      dodged can still be faced with some grace.
+    practice: Write down one fear you keep trying to outrun, then one way you could face it.
+  - day: 6
+    title: The Thought of It
+    source: S
+    key: "We do not fear death; we fear the thought of death"
+    after: 1
+    before: 0
+    reflection: >
+      Much of our dread lives in imagination, in late-night scenarios and borrowed horror
+      stories. Seneca notes that death is no closer at the doctor's office than at a
+      birthday party. Noticing that the fear rises and falls with our thoughts, not with
+      reality, gives you somewhere to work. Thoughts can be examined and gently corrected.
+    practice: When a frightening thought arrives today, label it out loud as only a thought.
+  - day: 7
+    title: Every Change a Death
+    source: M
+    key: "Turn thy thoughts now to the consideration of thy life, thy life as a child"
+    after: 1
+    before: 0
+    reflection: >
+      You have already outlived several versions of yourself. The toddler, the awkward
+      teenager, and the person you were before your first job are all gone, and you
+      survived each ending. Looking back this way makes the final change feel less alien.
+      It also invites tenderness toward every stage you are living through now.
+    practice: Look at an old photo of yourself and thank that younger person for something.
+  - day: 8
+    title: Shared With the Clock
+    source: S
+    key: "Counting even yesterday, all past time is lost time"
+    after: 0
+    before: 0
+    reflection: >
+      This line can sting, though it is meant to wake us up. Each hour we spend is
+      already slipping into the past, which makes the present the only place where
+      anything gets done. Rather than mourning yesterday, treat this afternoon as real
+      currency. Spend some of it on what you keep postponing.
+    practice: Give thirty minutes today to a task or person you have been putting off.
+  - day: 9
+    title: Free of the Trembling
+    source: E
+    key: "Shall I not escape from the fear of death"
+    after: 0
+    before: 0
+    reflection: >
+      Two things are often tangled together, the event itself and the fear that clouds
+      every year leading up to it. Epictetus separates them. Nobody gets out of the first,
+      but the second is open to change. Plenty of people have met their final days
+      calmly, and many found that steadiness by practicing it long before.
+    practice: Spend five quiet minutes breathing slowly and imagining meeting your own end calmly.
+  - day: 10
+    title: The Ripe Grain
+    source: M
+    key: "Life must be reaped like the ripe ears of corn"
+    after: 1
+    before: 0
+    reflection: >
+      Harvest is not a tragedy to a farmer; it is what the whole season was for. Marcus
+      sees births and deaths as part of one field, always being sown and gathered. When
+      grief comes, this image will not make it painless. It may help you see the person
+      you lost as having completed a season.
+    practice: Notice a grocery item that was harvested, and think about the life behind it.
+  - day: 11
+    title: Long or Right
+    source: S
+    key: "We should strive, not to live long, but to live rightly"
+    after: 0
+    before: 0
+    reflection: >
+      Length of life sits mostly outside our control, decided by genes, accidents, and
+      luck. The quality of our days is a different matter. Seneca shifts attention from the
+      calendar to the character we bring to each day. That shift is freeing, because it
+      turns an anxious question into a doable one.
+    practice: Choose one honest, kind act you can do before noon, and do it.
+  - day: 12
+    title: Eyes Open Before the End
+    source: E
+    key: "Take care then not to die without having been spectators"
+    after: 2
+    before: 0
+    reflection: >
+      People travel great distances to see famous sights, then walk past ordinary wonders
+      every day without looking. Epictetus suggests the grandest show is already here,
+      in the sky, the seasons, and the people around us. A mortal life is a short
+      ticket. It makes sense to actually watch the performance.
+    practice: Step outside tonight and spend two full minutes looking at the sky.
+  - day: 13
+    title: As If the Last
+    source: M
+    key: "if thou doest every act of thy life as if it were the last"
+    after: 0
+    before: 0
+    reflection: >
+      Picture making breakfast, answering a message, or saying goodbye at the door as
+      though it were the final time. Carelessness falls away, and so does pretending.
+      Marcus does not mean living in dread. He means giving each small act your full
+      presence, because attention is the truest form of respect.
+    practice: Do one routine task today slowly, with complete attention, as if for the last time.
+  - day: 14
+    title: Loosening the Grip
+    source: S
+    key: "Rehearse this thought every day, that you may be able to depart"
+    after: 0
+    before: 0
+    reflection: >
+      Seneca's image of people clutching at thorns in a rushing stream is vivid. Holding
+      too tightly to life does not keep us safe; it only scrapes our hands. A daily
+      reminder of our limits can soften that grip. Paradoxically, people who hold life
+      lightly often enjoy it more fully.
+    practice: Unclench your hands and jaw right now, and repeat whenever you notice tension.
+  - day: 15
+    title: When the Captain Calls
+    source: E
+    key: "So in life also, if there be given to you instead of a little bulb"
+    after: 1
+    before: 0
+    reflection: >
+      Epictetus pictures a ship stopping at port. Gathering shells on the beach is fine,
+      and so are the people we love. Yet everything we hold here was always held on
+      shore leave. Remembering that does not make love colder. It makes every hour
+      ashore with them feel like the gift it truly is.
+    practice: Tell someone you love one specific thing you are grateful for about them.
+  - day: 16
+    title: Rose in Spring
+    source: M
+    key: "Everything which happens is as familiar and well known as the rose"
+    after: 0
+    before: 0
+    reflection: >
+      Illness and death feel like intruders, yet they are as old as spring flowers. People
+      have faced them in every century and every village. Remembering this does not make
+      a diagnosis or a funeral easy. It can ease the lonely feeling that you alone have
+      been singled out for trouble.
+    practice: Read about how someone you admire handled a loss, and note one thing they did.
+  - day: 17
+    title: Ready for Loss
+    source: S
+    key: "No good thing renders its possessor happy, unless his mind is reconciled"
+    after: 0
+    before: 0
+    reflection: >
+      Enjoyment shadowed by constant fear of losing something is not really enjoyment.
+      Seneca suggests making peace ahead of time with impermanence, whether it involves a
+      house, health, or a beloved dog. Acceptance does not mean caring less. It means you
+      can be fully present now instead of bracing for the day it ends.
+    practice: Hold something you treasure and quietly acknowledge that it is yours only for a while.
+  - day: 18
+    title: Where Distress Begins
+    source: E
+    key: "For the origin of perturbation is this"
+    after: 0
+    before: 0
+    reflection: >
+      Grief and worry often share a root: wanting the world to be other than it is. That
+      longing is deeply human, especially after a loss. Epictetus simply names the
+      mechanism so you can see it working. Once you see it, you can grieve honestly
+      without also fighting reality every hour of the day.
+    practice: When you catch yourself thinking it should not be this way, breathe and name it.
+  - day: 19
+    title: Steady on Your Feet
+    source: M
+    key: "The art of life is more like the wrestler"
+    after: 0
+    before: 0
+    reflection: >
+      Loss rarely arrives on schedule. A phone call at dawn or a sudden diagnosis can
+      knock anyone sideways. Marcus compares living well to wrestling, where balance
+      matters more than grace. You train your footing in calm seasons through small
+      habits, so that when the hard moment comes, you bend without falling.
+    practice: Write the names of three people you could call on a very hard day.
+  - day: 20
+    title: A Life Complete
+    source: S
+    key: "Your other friend, however, departed in the bloom of his manhood"
+    after: 2
+    before: 0
+    reflection: >
+      When someone dies young, the unfairness can feel crushing. Seneca offers a different
+      way to measure. Ask whether their days held love, loyalty, and decency, rather than
+      only counting the years. Many short lives were brimming. Honoring that fullness is
+      not denial; it is seeing the person clearly.
+    practice: Write down three ways someone you lost made their time count.
+  - day: 21
+    title: What You Were Given
+    source: E
+    key: "Well then and have you not received faculties"
+    after: 3
+    before: 0
+    reflection: >
+      In heavy seasons it is easy to feel you have nothing left. Epictetus reminds us of
+      quiet resources already in place: patience, courage, and the ability to keep going
+      one step at a time. They may feel faint today. They are still yours, and they tend
+      to grow stronger each time they are used.
+    practice: Recall one past hardship you survived and name the strength that carried you.
+  - day: 22
+    title: This Little Compound
+    source: M
+    key: "Remember this then, that this little compound, thyself"
+    after: 0
+    before: 0
+    reflection: >
+      Marcus speaks of himself, an emperor, as a small bundle of matter that will one day
+      come apart. There is humility in that, and also a strange comfort. The body is
+      fragile and temporary for everyone alike. Knowing this can make you gentler with
+      your own aging and kinder toward the frailty of others.
+    practice: Thank your body for one thing it did for you today.
+  - day: 23
+    title: Weight, Not Width
+    source: S
+    key: "like jewels of great price, be noteworthy"
+    after: 1
+    before: 0
+    reflection: >
+      A small gemstone can be worth more than a large rock. Seneca applies that to a human
+      life, judging it by what was done with the time rather than by the count of
+      birthdays. This is a hopeful thought at any age. Today can still add real weight,
+      even if it feels very ordinary.
+    practice: Do one thing today that would matter to someone a year from now.
+  - day: 24
+    title: The Rule in Readiness
+    source: E
+    key: "When death appears an evil, we ought to have this rule in readiness"
+    after: 0
+    before: 0
+    reflection: >
+      Panic tends to arrive faster than wisdom, which is why Epictetus wants a principle
+      ready in advance. A short phrase, rehearsed in calm times, can steady you at a
+      bedside or in a waiting room. Choose words that ring true for you. Having them close
+      means you are never entirely caught off guard.
+    practice: Write a one-line steadying phrase on a card and keep it in your wallet.
+  - day: 25
+    title: Short-Lived Praise
+    source: M
+    key: "Short lived are both the praiser and the praised"
+    after: 0
+    before: 0
+    reflection: >
+      Likes, reviews, titles, and reputations all fade, along with the people who handed
+      them out. Marcus finds this freeing rather than bleak. If applause is temporary,
+      there is less reason to chase it. You can turn your attention to doing good work
+      and being decent, whether or not anyone notices.
+    practice: Do one helpful thing today anonymously, and tell no one about it.
+  - day: 26
+    title: He Still Lives
+    source: S
+    key: "Why do you ask: “How long did he live?”"
+    after: 2
+    before: 0
+    reflection: >
+      Grieving people are often asked how old the person was, as if that sums them up.
+      Seneca answers that a good life continues in memory and influence. The recipes,
+      sayings, and kindnesses of those we lose keep moving through us. Carrying them
+      forward is one of the most loving forms of remembrance.
+    practice: Share a favorite story about someone you have lost with a friend or family member.
+  - day: 27
+    title: Walking Willingly
+    source: E
+    key: "In every thing (circumstance) we should hold these maxims ready to hand"
+    after: 2
+    before: 0
+    reflection: >
+      The old verse Epictetus loved contrasts two travelers on the same road. One is
+      dragged and resists every step; the other walks with open eyes. The destination is
+      the same for both. Choosing to accept what life asks, including endings, spares you
+      a great deal of needless struggle along the way.
+    practice: Pick one unavoidable chore or change and meet it today without complaint.
+  - day: 28
+    title: Neither Careless nor Impatient
+    source: M
+    key: "neither careless nor impatient nor contemptuous with respect to death"
+    after: 0
+    before: 0
+    reflection: >
+      Marcus describes a middle path. Some people ignore mortality entirely, while others
+      dwell on it or wave it off with bravado. He suggests a calmer stance, waiting for it
+      the way you might wait for a season to turn. That steadiness leaves room to live
+      fully in the meantime.
+    practice: Update or start a simple list of your wishes and share where it is kept.
+  - day: 29
+    title: Ready Everywhere
+    source: S
+    key: "You are younger; but what does that matter?"
+    after: 2
+    before: 0
+    reflection: >
+      Youth feels like a guarantee, yet nobody holds a written schedule. Seneca does not
+      say this to alarm a younger friend. He wants that friend to stop postponing the
+      important things. Apologies, thanks, and words of love are better spoken this week
+      than saved for a later that may not come.
+    practice: Send one message today that you would regret never having sent.
+  - day: 30
+    title: Not Broken
+    source: E
+    key: "And yet God has not only given us these faculties"
+    after: 0
+    before: 0
+    reflection: >
+      Epictetus believed we were equipped to bear whatever comes without being crushed
+      by it. That may feel hard to believe in fresh grief. Still, people endure losses
+      they once thought unsurvivable, and they slowly find their footing again. The
+      capacity is already within you, even on days it hides.
+    practice: Write yourself a short, kind note to read on a future hard day.

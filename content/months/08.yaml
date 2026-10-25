@@ -1,0 +1,410 @@
+month: 8
+theme: Time and the Present
+intro: >
+  Most of us treat time as if the supply were endless, saving real living for
+  some later season that never quite arrives. This month the Stoics turn our
+  attention to the only hour we actually hold, the one happening now, and ask
+  what we plan to do with it before it slips past.
+days:
+  - day: 1
+    title: Each Day a Whole Life
+    source: S
+    key: "begin at once to live, and count each separate day"
+    after: 0
+    before: 0
+    reflection: >
+      Imagine today came with its own beginning, middle and end, and nothing
+      carried over. You would probably skip the third scroll through the news
+      and call the friend you keep meaning to call. Treating a single day as
+      complete does not mean cramming it full. It means letting it count,
+      instead of spending it waiting for a better one.
+    practice: Tonight, name one thing that made today worth having on its own.
+  - day: 2
+    title: The Only Life You Lose
+    source: M
+    key: "no man loses any other life than this which he now lives"
+    after: 0
+    before: 0
+    reflection: >
+      Whether you live to forty or ninety, the moment you are in is the only
+      one you can actually lose. Regret about last year and worry about next
+      spring both feel heavy, yet neither is in your hands right now. The
+      dinner in front of you, the child talking to you, the work on your desk,
+      those are.
+    practice: During one meal today, put the phone in another room and simply eat.
+  - day: 3
+    title: What Tomorrow Really Means
+    source: E
+    key: "Tomorrow I will begin to attend, you must be told"
+    after: 0
+    before: 0
+    reflection: >
+      Saying you will start the diet, the budget or the patience on Monday
+      sounds harmless. Epictetus translates it honestly: it is permission to
+      stay careless today. Every delay quietly signs up for one more day of
+      the habit you claim to dislike. Seeing the trade clearly can be enough
+      to make starting now feel easier than postponing.
+    practice: Pick one thing you have scheduled for Monday and begin it this afternoon.
+  - day: 4
+    title: Always Getting Ready
+    source: S
+    key: "with all his other faults, has this also"
+    after: 0
+    before: 0
+    reflection: >
+      Plenty of people are preparing to live. After the promotion, after the
+      kids are older, after the house is paid off, then the good part begins.
+      Planning is fine, but a life made only of preparation never gets lived.
+      Somewhere in this ordinary Tuesday is a thing you have been saving for
+      later that could happen now.
+    practice: Do one thing today you have been saving for retirement or someday.
+  - day: 5
+    title: The Clock Keeps Running
+    source: M
+    key: "Remember how long thou hast been putting off these things"
+    after: 1
+    before: 0
+    reflection: >
+      Marcus is writing to himself here, a busy emperor scolding his own
+      delays. That alone is comforting: procrastination is old and very human.
+      His answer is not guilt but arithmetic. The days given to clearing your
+      head and fixing what matters are limited, and the ones you skip do not
+      come back for a second try.
+    practice: List three things you have postponed for a year; finish the smallest today.
+  - day: 6
+    title: Wait for the Dish
+    source: E
+    key: "in life you ought to behave as at a banquet"
+    after: 6
+    before: 0
+    reflection: >
+      Picture a family dinner where the platters go around the table. You take
+      a fair portion of what reaches you, let the rest pass, and do not lunge
+      for the far end. Life works the same way. Enjoy what is in front of you
+      now, release what has gone by, and stop craning toward what has not
+      arrived.
+    practice: When you catch yourself wanting the next thing, describe aloud what you already have.
+  - day: 7
+    title: Looking Back Shows It
+    source: S
+    key: "Infinitely swift is the flight of time"
+    after: 1
+    before: 0
+    reflection: >
+      Ask any parent how fast the toddler years went and they will shake their
+      heads. While you are inside a day it feels slow, even tedious. Only in
+      the rearview mirror does the speed show. Knowing that ahead of time is a
+      gift: the long afternoon you are bored in today will one day look like a
+      blink.
+    practice: Take a photo of an ordinary moment today that future you will miss.
+  - day: 8
+    title: A Single Point
+    source: M
+    key: "every man lives only this present time, which is an indivisible point"
+    after: 0
+    before: 0
+    reflection: >
+      All you ever hold is a thin slice called now. The past is finished and
+      the future is a guess. That can sound bleak, but it is actually freeing.
+      You do not have to carry your whole life at once, only this phone call,
+      this drive home, this conversation, and then the next one.
+    practice: Whenever you feel overwhelmed today, ask only what this next minute needs.
+  - day: 9
+    title: Attention Is Not Stored
+    source: E
+    key: "When you have remitted your attention for a short time"
+    after: 0
+    before: 0
+    reflection: >
+      It is tempting to think focus is a switch you can flip back on whenever
+      you like. In practice, a sloppy afternoon makes the evening sloppier,
+      and a skipped workout makes skipping easier tomorrow. Small lapses
+      compound like interest on a credit card. The cheapest moment to pay
+      attention is always the present one.
+    practice: Turn off notifications for two hours and give one task your whole mind.
+  - day: 10
+    title: Balance the Books Daily
+    source: S
+    key: "let us so order our minds as if we had come to the very end"
+    after: 3
+    before: 0
+    reflection: >
+      An accountant closing the books each night never faces a terrifying
+      year end. Seneca suggests running life the same way. Say the kind word,
+      make the apology, send the thank-you before bed. Then nothing important
+      is left hanging, and whatever tomorrow brings finds you with a clean
+      ledger instead of a pile of unfinished business.
+    practice: Before bed, settle one small open item, such as a reply, an apology or a thank-you.
+  - day: 11
+    title: Only the Present Hurts
+    source: M
+    key: "neither the future nor the past pains thee, but only the present"
+    after: 1
+    before: 0
+    reflection: >
+      Much suffering comes from stacking burdens: the pain now, plus every
+      future day of it we imagine, plus memories of past flares. Marcus asks
+      us to cut it down to size. A hard hour at the hospital, a rough shift,
+      a sore back, taken one piece at a time, is usually something you can
+      actually bear.
+    practice: When something hurts today, ask whether you can endure just the next ten minutes.
+  - day: 12
+    title: Now Is the Time
+    source: E
+    key: "Now is the time for the fever"
+    after: 3
+    before: 0
+    reflection: >
+      A head cold, a missed flight, a sleepless night with a sick child. None
+      of these arrive at a convenient moment, and wishing they had waited
+      changes nothing. Epictetus treats each one as the assignment for today.
+      The question shifts from why is this happening now to how well can I
+      carry it while it lasts.
+    practice: Name today's hardest thing and tell yourself this is its time to be borne well.
+  - day: 13
+    title: Length Versus Use
+    source: S
+    key: "the good in life does not depend upon"
+    after: 0
+    before: 0
+    reflection: >
+      Nobody admires a retiree for the number of years spent watching cable
+      news. What we admire is how someone used their time, however much they
+      had. Measuring life by length leads to anxious hoarding. Measuring it by
+      use leads to better questions, like whether this evening is going to
+      something you actually value.
+    practice: Check your screen-time report and move thirty minutes to something you value.
+  - day: 14
+    title: Short Life, Present Use
+    source: M
+    key: "In a word, thy life is short"
+    after: 1
+    before: 0
+    reflection: >
+      Two short sentences carry the whole idea. Because time is limited, the
+      present is where it counts, and what counts is acting fairly and
+      thinking clearly in it. That might mean a patient answer to a coworker,
+      a fair split of chores at home, or an honest look at a decision you
+      keep dodging.
+    practice: Make one decision today that you have been dodging for over a week.
+  - day: 15
+    title: Like the Hour
+    source: E
+    key: "as an hour is a part of the day"
+    after: 0
+    before: 0
+    reflection: >
+      Each hour shows up, does its part, and makes way for the next. Epictetus
+      sees a human life in the same light: present for a while, then past.
+      Accepting this is not gloomy. It frees energy otherwise spent fighting
+      the calendar, so you can actually show up during the hours you are
+      given.
+    practice: At the top of each hour today, notice where you are and what you are doing.
+  - day: 16
+    title: Borrowing From the Future
+    source: S
+    key: "O what madness it is to plot out far-reaching hopes"
+    after: 3
+    before: 0
+    reflection: >
+      Long-range plans are not the problem. The problem is treating them as a
+      guarantee and postponing living until they come due. Every career plan
+      and savings chart quietly assumes a tomorrow nobody has promised. Keep
+      the spreadsheet if it helps, but do not let it hold your happiness
+      hostage to a date in the future.
+    practice: Spend a little money or time today on a joy you have been deferring.
+  - day: 17
+    title: As If the Last
+    source: M
+    key: "passing every day as the last"
+    after: 0
+    before: 0
+    reflection: >
+      Living each day as the last does not mean quitting work to skydive. For
+      Marcus it means steadiness: not frantic, not sluggish, not pretending.
+      If today were your final one, you would likely be kinder at breakfast,
+      more honest in the meeting, and less bothered by the slow driver ahead
+      of you on the highway.
+    practice: Leave every conversation today the way you would want it remembered.
+  - day: 18
+    title: Let It Ripen
+    source: E
+    key: "you want a fig, I will answer to you that it requires time"
+    after: 1
+    before: 0
+    reflection: >
+      Valuing the present does not mean demanding instant results. A fig
+      needs its season, and so does a changed temper or a healthier body.
+      The present is where the work happens, not where the harvest must
+      appear. Water the tree today, then let the calendar do the part only
+      the calendar can do.
+    practice: Do one small step toward a long goal and resist checking for results.
+  - day: 19
+    title: As Soon As I Finish
+    source: S
+    key: "we keep adjourning our own cases"
+    after: 0
+    before: 0
+    reflection: >
+      As soon as this project ships, as soon as the inbox is clear, then you
+      will read, exercise, or call your mother. Seneca has heard that one
+      before. The clearing never fully comes, because new tasks fill the space
+      the old ones leave. What matters has to be fitted in now, alongside the
+      clutter.
+    practice: Put twenty minutes for something important on your calendar today, ahead of email.
+  - day: 20
+    title: No Detour Needed
+    source: M
+    key: "at which thou wishest to arrive by a circuitous road"
+    after: 1
+    before: 0
+    reflection: >
+      Much of what we chase, a sense of peace or a life we can respect, we
+      imagine lies far off at the end of a long road. Marcus says the
+      shortcut is right here. Stop relitigating the past, stop rehearsing the
+      future, and handle this moment fairly. The calm you are driving toward
+      may already be available.
+    practice: For one hour, refuse to replay yesterday or rehearse tomorrow.
+  - day: 21
+    title: The Habit of Later
+    source: E
+    key: "a habit of not attending is formed in you"
+    after: 1
+    before: 0
+    reflection: >
+      Putting things off is rarely a single choice. It becomes a groove worn by
+      repetition until later feels like the natural answer to everything.
+      Epictetus notes the cost: the good life itself keeps getting pushed to
+      next week. Grooves can be rewired the same way they formed, through
+      small, repeated choices made today.
+    practice: Notice each time you say later today, and do one of those things immediately.
+  - day: 22
+    title: The Unprofitable Present
+    source: S
+    key: "nothing more wretched than worry over the outcome of future events"
+    after: 3
+    before: 0
+    reflection: >
+      Worry about the future often grows in the space left by an empty
+      present. When the day feels pointless, the mind wanders ahead and
+      invents trouble. Fill the hour with real work, real company or real
+      rest, and the anxious forecasting tends to quiet down. A useful today
+      is the best medicine for a frightening tomorrow.
+    practice: When worry strikes, do a useful five-minute task with your hands.
+  - day: 23
+    title: Secure This Hour
+    source: M
+    key: "See that thou secure this present time to thyself"
+    after: 0
+    before: 0
+    reflection: >
+      Chasing a legacy or posting for likes means living for an audience that
+      is not even here yet. Future people will be as distracted and fickle as
+      the ones annoying you today. Rather than performing for them, Marcus
+      suggests claiming the time that is actually yours, which is right now,
+      with the people actually in the room.
+    practice: Do something good today that nobody will see or praise.
+  - day: 24
+    title: It Is the Fifth Hour
+    source: E
+    key: "but it is the fifth hour of the day"
+    after: 0
+    before: 0
+    reflection: >
+      While his fate was being decided elsewhere, this Roman senator went
+      about his normal routine. The outcome was out of his hands, his hour of
+      exercise was not. Waiting on a biopsy result or a job decision can
+      swallow a whole day. Doing the next ordinary thing well is a quiet way
+      of refusing that.
+    practice: While waiting on news today, keep your usual routine and do it well.
+  - day: 25
+    title: You May Not Wake
+    source: S
+    key: "Say to me when I lie down to sleep"
+    after: 1
+    before: 0
+    reflection: >
+      This sounds grim, but its effect is warm. Remembering that any evening
+      could be the last makes goodnight to your spouse matter. Remembering
+      that any morning could be the last makes the first cup of coffee taste
+      better. The point is not fear. The point is not sleepwalking through the
+      days you are given.
+    practice: Say goodnight tonight to someone you love as if it truly mattered.
+  - day: 26
+    title: Tomorrow or Later
+    source: M
+    key: "If any god told thee that thou shalt die to-morrow"
+    after: 1
+    before: 0
+    reflection: >
+      If you learned you had two days left, the difference between day two
+      and day three would hardly matter. Marcus stretches the same logic to
+      decades. Against the scale of time, a long life and a short one are
+      close cousins. What separates them is not the count of years but what
+      fills them.
+    practice: Write down what you would do this week if it were your last.
+  - day: 27
+    title: The Evening Review
+    source: E
+    key: "Let sleep not come upon thy languid eyes"
+    after: 0
+    before: 0
+    reflection: >
+      Epictetus borrows this old verse to recommend a nightly look back. Not
+      a guilt session, just an honest audit: what went well, what slipped,
+      what got left undone. Five minutes before sleep turns a blur of a day
+      into something you learn from, and tomorrow starts with a lesson rather
+      than a repeat.
+    practice: Before bed, jot one thing done well, one done poorly, and one left undone.
+  - day: 28
+    title: A Brief Space
+    source: M
+    key: "in what a brief space of time is thy existence"
+    after: 1
+    before: 0
+    reflection: >
+      Given how short life is, why rush through it in a tangle? Marcus asks
+      for an orderly passage, not a hurried one. That can look like leaving
+      for work ten minutes early instead of speeding, or finishing one task
+      before starting three more. Brevity is a reason for calm, not for
+      panic.
+    practice: Leave ten minutes early for your next appointment and drive without hurrying.
+  - day: 29
+    title: Every Morning a Bonus
+    source: S
+    key: "who can await the morrow without apprehension"
+    after: 1
+    before: 0
+    reflection: >
+      Someone who goes to bed feeling the day was lived fully does not need
+      tomorrow to fix anything. When morning comes, it arrives as extra, not
+      owed. That shift changes how the alarm sounds. Instead of another day
+      to get through, it becomes another day you did not have to get, and
+      did.
+    practice: On waking tomorrow, say thank you for the day before checking your phone.
+  - day: 30
+    title: Better Today Than Tomorrow
+    source: E
+    key: "If it is good to use attention tomorrow"
+    after: 0
+    before: 0
+    reflection: >
+      Whatever is worth doing tomorrow is worth more today, because starting
+      now makes tomorrow easier too. Delay does not just push one task back;
+      it trains the habit of pushing. Epictetus sees each postponement as a
+      vote for the next one. Starting small today is how you stop the slide
+      to day three.
+    practice: Do five minutes today of the task you planned to start tomorrow.
+  - day: 31
+    title: The Remainder Is a Gift
+    source: M
+    key: "Consider thyself to be dead, and to have completed thy life"
+    after: 0
+    before: 0
+    reflection: >
+      Imagine your story already finished, the account closed. Whatever comes
+      next is extra time you never counted on. People who survive a scare
+      often describe life afterward this way, and they tend to spend it more
+      wisely. You do not need the scare. You can simply decide the remainder
+      is a gift.
+    practice: Spend one hour today as if it were borrowed time you never expected.

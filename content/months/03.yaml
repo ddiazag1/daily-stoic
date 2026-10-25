@@ -1,0 +1,405 @@
+month: 3
+theme: Seeing Clearly
+intro: >
+  Most of what upsets us is not the event itself but the story we tell about it a
+  half second later. This month is about catching that story in the act: slowing
+  down first impressions, separating what happened from what we added, and
+  learning to see people, things and setbacks a little more truly.
+days:
+  - day: 1
+    title: The Story We Add
+    source: E
+    key: "Men are disturbed not by the things which happen"
+    after: 0
+    before: 0
+    reflection: >
+      A delayed flight, a curt email, a bad lab result. Each arrives as a plain
+      fact, and within seconds the mind has written a whole verdict about it.
+      That verdict is what keeps you up at night. Noticing the gap between the
+      event and your opinion of it is where steadiness begins, a skill that
+      improves with practice.
+    practice: When something annoys you today, write the bare fact in one sentence, without adjectives.
+  - day: 2
+    title: Remove the Complaint
+    source: M
+    key: "Take away thy opinion, and then there is taken away"
+    after: 1
+    before: 0
+    reflection: >
+      Harm and the feeling of being harmed are not always the same thing. Someone
+      cuts in line, a colleague takes credit, a relative makes a pointed remark.
+      The sting often lives in the sentence "I have been wronged" that you repeat
+      afterward. Drop the sentence, even for a minute, and see how much of the
+      injury actually remains.
+    practice: Catch yourself thinking "they did this to me" and replace it with what simply happened.
+  - day: 3
+    title: Nothing Unbearable
+    source: S
+    key: "there is no misery unless there be something in the universe"
+    after: 1
+    before: 0
+    reflection: >
+      Calling something unbearable is a decision, and it usually makes the thing
+      heavier. A long commute, a sick child at midnight, a tight month with
+      money: hard, certainly, but most of them are being borne right now by
+      ordinary people. Labeling them differently does not change the facts. It
+      changes how much strength you have left to meet them.
+    practice: Replace the word "unbearable" with "difficult" every time it comes to mind today.
+  - day: 4
+    title: Who Did the Insulting
+    source: E
+    key: "it is not he who reviles you or strikes you"
+    after: 1
+    before: 0
+    reflection: >
+      A rude driver or a sharp comment online cannot reach inside your chest. What
+      does the reaching is your own quick judgment that this is an insult and it
+      matters. That sounds like a harsh teaching, yet it is good news. If the
+      irritation is partly yours, then so is the power to set it down.
+    practice: Before replying to anything that stings, wait ten minutes and ask what you are adding.
+  - day: 5
+    title: Things Are Silent
+    source: M
+    key: "Things stand outside of us, themselves by themselves"
+    after: 2
+    before: 0
+    reflection: >
+      Your bank balance does not think it is a disaster. The scale in the bathroom
+      has no opinion about you. Objects and events just sit there, saying nothing.
+      Every bit of meaning they carry is supplied by the mind looking at them,
+      which means the mind is the place worth tending, far more than the
+      numbers.
+    practice: Look at one number that worries you and say aloud, "This is only a number."
+  - day: 6
+    title: The Notion of Loss
+    source: S
+    key: "it is not the loss that troubles us"
+    after: 1
+    before: 0
+    reflection: >
+      Losing a promotion, a friendship or a favorite watch hurts, but much of the
+      ache comes from replaying what it means. Often the loss is felt for weeks
+      after life has quietly rearranged itself around it. Asking what has
+      actually changed in your day, as opposed to your story, can shrink a grief
+      to its real size.
+    practice: Name one recent loss and list three things in your day it has not touched.
+  - day: 7
+    title: Ask Appearances to Wait
+    source: E
+    key: "be not hurried away by the rapidity of the appearance"
+    after: 0
+    before: 0
+    reflection: >
+      First impressions move fast: a notification, a tone of voice, a strange
+      noise from the car. The urge is to react at the same speed. Picture
+      instead asking the impression to hold still for a moment so you can look at
+      it properly. That pause is often the difference between a reply you
+      regret and one you are glad of.
+    practice: Take three slow breaths before answering any message that makes your pulse jump.
+  - day: 8
+    title: What You Actually See
+    source: M
+    key: "I see that my child is sick"
+    after: 2
+    before: 0
+    reflection: >
+      A fever, a cough, a test that needs repeating. The eyes report something
+      small and real, and the imagination races ahead to the worst ending. Caring
+      well for someone means staying with what is in front of you: the
+      temperature, the next step, the call to make. Fear that runs ahead is no
+      help to anyone you love.
+    practice: When worry starts, say only what you can see right now, and stop there.
+  - day: 9
+    title: Things Lead Us Astray
+    source: S
+    key: "It is things that lead us astray"
+    after: 1
+    before: 0
+    reflection: >
+      Wordplay rarely ruins a life. What misleads people is the shiny offer, the
+      bigger house, the job title that looks better than it feels. Seneca notices
+      how often we chase something, get it, and then want its opposite. Looking
+      carefully at a thing before wanting it saves a great deal of reversing
+      later.
+    practice: Before buying anything over fifty dollars today, wait a day and look again.
+  - day: 10
+    title: Nothing More Happened
+    source: E
+    key: "every man adds from his own opinion"
+    after: 0
+    before: 6
+    reflection: >
+      Epictetus strips events down like a reporter: the ship is lost, the man is
+      in prison, and that is all. The word "badly" is something we bring along
+      ourselves. Try it with a cancelled plan or a rejected proposal. State what
+      happened, then notice the extra commentary trying to attach itself, and
+      leave it off.
+    practice: Tell someone about a setback today using only facts, with no judgment words.
+  - day: 11
+    title: Polish and Persuasion
+    source: M
+    key: "outward show is a wonderful perverter of the reason"
+    after: 0
+    before: 0
+    reflection: >
+      Glossy packaging, confident salespeople and beautifully edited photos all
+      work on the same weakness. The moment you feel most certain that something
+      is worth the effort is often the moment you are being sold to. Stripping a
+      thing back to what it really is, ingredients and materials and cost, is a
+      quiet act of self-respect.
+    practice: Describe one thing you want in plain, unflattering terms before you decide on it.
+  - day: 12
+    title: Flattery in Disguise
+    source: S
+    key: "How closely flattery resembles friendship"
+    after: 1
+    before: 0
+    reflection: >
+      Praise feels like care, which is exactly why it slips past our defenses. A
+      friend who only agrees, a boss who only compliments, an app that tells you
+      what you want to hear. Real friendship sometimes stings. Learning to tell
+      the two apart is one of the harder kinds of clear sight, and among the most
+      useful.
+    practice: Ask someone you trust for one honest criticism, and thank them for it.
+  - day: 13
+    title: It Seemed Right to Them
+    source: E
+    key: "When any person treats you ill or speaks ill of you"
+    after: 1
+    before: 0
+    reflection: >
+      The coworker who undermined you probably believed they were doing the right
+      thing. That does not make them right, yet it changes the picture. They are
+      acting on their view, not yours, and nobody can follow a map they do not
+      have. Seeing this turns a villain back into a mistaken person, which is far
+      easier to live beside.
+    practice: Think of someone who wronged you and write the reason they likely gave themselves.
+  - day: 14
+    title: What Do They Believe
+    source: M
+    key: "Whatever man thou meetest with, immediately say to thyself"
+    after: 0
+    before: 0
+    reflection: >
+      Behavior makes more sense once you know what a person thinks is good. The
+      neighbor obsessed with his lawn, the relative who cannot stop talking about
+      money, the driver weaving through traffic. Each is acting out a belief
+      about what matters. Asking about the belief first makes the behavior far
+      less surprising, and far less personal.
+    practice: In one conversation today, quietly guess what the other person values most.
+  - day: 15
+    title: The Hidden Price
+    source: S
+    key: "Some objects are superfluous; others are not worth"
+    after: 1
+    before: 0
+    reflection: >
+      The free trial, the extra shift, the favor that becomes an obligation.
+      Plenty of things cost no money and still take evenings, sleep and attention.
+      Seneca asks for the kind of scrutiny you would give a car salesman, applied
+      to everything you chase. Time and peace of mind are payment too, and often
+      the most expensive kind.
+    practice: Pick one commitment and estimate honestly how many hours a month it costs you.
+  - day: 16
+    title: Before You Call It Bad
+    source: E
+    key: "Does a man bathe quickly (early)?"
+    after: 2
+    before: 0
+    reflection: >
+      He drinks a lot. She left early. They spent heavily. Each is a description,
+      and the word "badly" is a separate claim that needs evidence you usually do
+      not have. Sticking to description is not naive. It keeps you from hanging
+      verdicts on people based on a glimpse through a window, and it keeps
+      gossip from passing as knowledge.
+    practice: Describe someone's behavior today without adding whether it was good or bad.
+  - day: 17
+    title: The Healthy Eye
+    source: M
+    key: "The healthy eye ought to see all visible things"
+    after: 0
+    before: 0
+    reflection: >
+      An eye that only wants green is a sick eye. In the same way, a mind that
+      only accepts good news, smooth days and agreeable people is fragile. Seeing
+      clearly includes seeing the traffic, the bill, the tired spouse and the
+      cancelled plans, and taking them in without demanding that the world show
+      only its pleasant side.
+    practice: When unwelcome news arrives, say "noted" before you say anything else.
+  - day: 18
+    title: The Only Real Trouble
+    source: S
+    key: "Spite of all do you still chafe and complain"
+    after: 0
+    before: 0
+    reflection: >
+      Seneca makes a bold claim: of all a friend's troubles, the one real problem
+      is the complaining. That can sound unkind, yet consider how much of a hard
+      week is spent rehearsing its unfairness. The leaky roof is a task. The
+      endless grumbling about it is a second burden that you carry by choice.
+    practice: Go one full day without complaining aloud, and notice when you nearly do.
+  - day: 19
+    title: Seeming Is Not Being
+    source: E
+    key: "What then “seems” to every man is not sufficient"
+    after: 0
+    before: 0
+    reflection: >
+      Nobody weighs groceries by feel or measures a room by eye when it matters.
+      Yet people judge right and wrong, success and failure, mostly by how things
+      seem in the moment. A strong feeling of certainty is not the same as being
+      correct. It helps to have a standard outside your mood, something steady you
+      can check a feeling against.
+    practice: Write down one firm opinion you hold and the evidence that would change it.
+  - day: 20
+    title: Not Their Version
+    source: M
+    key: "Do not have such an opinion of things as he has"
+    after: 0
+    before: 0
+    reflection: >
+      Someone who has hurt you would often like you to see things their way: that
+      you overreacted, that it was your fault, that you are small. You do not have
+      to accept their framing, and you do not have to invent a harsher one in
+      reply. The task is simply to look at what actually happened.
+    practice: After a conflict, write one sentence of what happened as a neutral witness would.
+  - day: 21
+    title: Vices in Good Clothes
+    source: S
+    key: "Vices creep into our hearts under the name of virtues"
+    after: 0
+    before: 0
+    reflection: >
+      Recklessness calls itself courage. Stinginess calls itself being careful.
+      Overwork calls itself dedication, and avoiding a hard talk calls itself
+      keeping the peace. The labels feel flattering, which is why they stick.
+      Checking what a habit really is, under its nicer name, is uncomfortable and
+      worth doing.
+    practice: Name one habit you praise in yourself and ask what a blunt friend would call it.
+  - day: 22
+    title: Do Not Follow the Picture
+    source: E
+    key: "do not allow the appearance to lead you on"
+    after: 1
+    before: 0
+    reflection: >
+      One craving or worry quickly becomes a movie: the late-night snack becomes
+      the whole bag, the odd pain becomes a hospital stay, the unanswered text
+      becomes a ruined friendship. The trick is to stop the reel early and put a
+      better image in its place before the story takes you somewhere you did not
+      choose.
+    practice: When a worry starts spinning a story, picture instead the most likely ordinary outcome.
+  - day: 23
+    title: Why Am I Disturbed
+    source: M
+    key: "I can have that opinion about anything which I ought"
+    after: 1
+    before: 0
+    reflection: >
+      Marcus asks himself a blunt question. If he can choose the view he takes of
+      things, why is he upset? It is a useful question in a traffic jam or a
+      tense meeting. Sometimes the honest answer is that you have not yet chosen,
+      and the first view on offer simply moved in.
+    practice: Next time you feel rattled, ask yourself, "Which opinion am I holding right now?"
+  - day: 24
+    title: Too Soon to Tell
+    source: S
+    key: "Has that friend of yours already made you believe"
+    after: 1
+    before: 0
+    reflection: >
+      A charming new colleague, a contractor who says all the right things, a
+      first date that goes perfectly. Quick verdicts about people are tempting,
+      in both directions. Character shows itself slowly, through small choices
+      over months. Holding first impressions loosely protects you from both
+      disappointment and unfair dislike.
+    practice: Think of someone you judged quickly this year, and ask what you actually know.
+  - day: 25
+    title: How You Will Fare
+    source: E
+    key: "But if you ask me how you will fare"
+    after: 1
+    before: 0
+    reflection: >
+      Nobody can promise how the lawsuit, the interview or the diagnosis will turn
+      out. What can be said is that sound beliefs tend to lead to sound choices,
+      and confused ones lead to trouble. Tending to your opinions is less dramatic
+      than chasing outcomes, but it is the part that travels with you into every
+      result.
+    practice: Before a big decision, write the belief driving it and test whether it holds up.
+  - day: 26
+    title: Glad to Be Corrected
+    source: M
+    key: "If any man is able to convince me and show me"
+    after: 1
+    before: 0
+    reflection: >
+      Being shown you were wrong feels like a small defeat, especially in front of
+      family or coworkers. Marcus treats it as a gift. The truth never harmed
+      anyone; clinging to an error does. Picture arguing with your spouse or a
+      colleague with real willingness to change your mind, and how much lighter
+      that would feel.
+    practice: In your next disagreement, ask "What am I missing?" and listen to the full answer.
+  - day: 27
+    title: Dust on the Road
+    source: S
+    key: "did you not know, when you prayed for long life"
+    after: 1
+    before: 0
+    reflection: >
+      Hoping for a long life and then resenting aches, illness and loss is a bit
+      like booking a road trip and being shocked by the dust. The troubles are
+      part of the package. Seeing that plainly does not make them pleasant, but it
+      removes the extra sting of feeling ambushed by something that was always
+      coming.
+    practice: When an age-related ache shows up today, say "part of the trip" and carry on.
+  - day: 28
+    title: The Storm Inside
+    source: E
+    key: "For what is a greater storm than that which comes"
+    after: 1
+    before: 0
+    reflection: >
+      The real storm is often the one in your head: a spiral of alarming
+      impressions that blows reason away. A tense diagnosis or a sudden layoff is
+      hard enough. The panic layered on top makes clear thinking nearly
+      impossible. Recognizing panic as appearances, not facts, gives you
+      something solid to stand on until the weather passes.
+    practice: When panic rises, name it out loud as "a storm of impressions" and breathe slowly.
+  - day: 29
+    title: You Go to Them
+    source: M
+    key: "If the things do not come to thee, the pursuits"
+    after: 1
+    before: 0
+    reflection: >
+      Many of the things that unsettle you are not in the room at all. A rival's
+      success, a news story, a purchase you cannot afford. You travel to them in
+      thought, again and again. Letting your judgment about them settle means they
+      can stay where they are, and you can stay where you are.
+    practice: When your mind drifts to a distant worry, bring attention back to your hands.
+  - day: 30
+    title: Rich by Wanting Less
+    source: S
+    key: "It is in the power of any man to despise all things"
+    after: 1
+    before: 0
+    reflection: >
+      Nobody can own everything, yet anyone can stop treating every object as a
+      need. The next phone, the nicer car, the bigger kitchen keep moving out of
+      reach. Seeing them clearly, as pleasant extras rather than requirements, is
+      a kind of wealth no market can take away, and it costs nothing to start.
+    practice: Unsubscribe from one shopping email or app that keeps telling you what you lack.
+  - day: 31
+    title: Trouble Cast Out
+    source: M
+    key: "To-day I have got out of all trouble"
+    after: 0
+    before: 0
+    reflection: >
+      Marcus does not say his problems vanished. He says he threw out the trouble,
+      because it was living in his opinions all along. That is the point of a
+      month spent looking carefully. The facts of your life may be the same
+      tonight, while the weight you carry on top of them can be a good deal
+      lighter.
+    practice: Tonight, list one worry you dropped this month simply by seeing it differently.

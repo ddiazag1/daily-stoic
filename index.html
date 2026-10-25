@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Daily Stoic</title>
+<meta name="description" content="A Stoic reading for every day of the year, from Marcus Aurelius, Epictetus and Seneca. Works offline.">
+<meta name="theme-color" content="#e6e6e1" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#141819" media="(prefers-color-scheme: dark)">
+<meta name="color-scheme" content="light dark">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Daily Stoic">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preload" href="fonts/spectral-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/spectral-200.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to reading</a>
+<header class="masthead">
+  <a class="wordmark" href="#/" aria-label="Daily Stoic, go to today">Daily Stoic</a>
+  <nav class="topnav" aria-label="Main">
+    <a href="#/" data-nav="today">Today</a>
+    <a href="#/months" data-nav="months">Months</a>
+    <a href="#/saved" data-nav="saved">Saved</a>
+  </nav>
+</header>
+<main id="main" tabindex="-1" aria-live="polite">
+  <p class="loading">Opening the book&hellip;</p>
+</main>
+<div class="toast" role="status" aria-live="polite" hidden></div>
+<noscript><p class="loading">Daily Stoic needs JavaScript to open today&rsquo;s reading.</p></noscript>
+<script src="app.js" defer></script>
+</body>
+</html>

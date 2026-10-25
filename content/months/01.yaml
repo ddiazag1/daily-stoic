@@ -1,0 +1,377 @@
+month: 1
+theme: What Is Yours
+intro: >
+  A new year starts with a simple sorting job. Some things belong to you: your judgments,
+  your choices, the effort you bring. Most things do not: other people, the weather, the
+  economy, your reputation. This month practices telling the two apart, and putting your
+  energy where it can actually do some good.
+days:
+  - day: 1
+    title: Two Kinds of Things
+    source: E
+    key: "Of things some are in our power, and others are not"
+    after: 1
+    before: 0
+    reflection: >
+      Start the year by drawing one line down the middle of your life. On one side sit your
+      opinions, wants and actions. On the other sit the stock market, your boss's mood and
+      the flu going around the office. Most stress comes from pushing hard on the wrong side
+      of that line and wondering why nothing moves.
+    practice: Write two columns tonight, mine and not mine, and sort three current worries into them.
+  - day: 2
+    title: The Judgment, Not the Thing
+    source: M
+    key: "If thou art pained by any external thing"
+    after: 1
+    before: 0
+    reflection: >
+      A rude email arrives, and the sting feels like it came with the message. Look closer.
+      The words are pixels on a screen; the hurt comes from the story you attach to them about
+      respect, fairness or failure. That story is yours, which means it can be edited, softened
+      or dropped before lunch.
+    practice: When something annoys you today, name the judgment behind it in one short sentence.
+  - day: 3
+    title: Pain and Opinion
+    source: S
+    key: "Pain is slight if opinion has added nothing to it"
+    after: 2
+    before: 0
+    reflection: >
+      Seneca wrote this while managing real illness, so it is no casual pep talk. A sore back
+      is a sore back. Yet the extra layer, the dread that it will never improve or that it
+      ruins everything, is something the mind adds. Notice how much of a bad day is the
+      commentary rather than the event.
+    practice: Describe one discomfort today in plain facts only, leaving out every forecast and complaint.
+  - day: 4
+    title: Free by Nature
+    source: E
+    key: "And the things in our power are by nature free"
+    after: 0
+    before: 0
+    reflection: >
+      Nobody can stop you from deciding to be patient with a toddler or honest in a meeting.
+      Those choices cannot be blocked. A promotion, a refund or a quick reply from a friend,
+      however, sits in someone else's hands and can be delayed at any moment. Leaning your
+      peace on the second kind invites a fragile week.
+    practice: Pick one goal you hold and rewrite it so that success depends only on your effort.
+  - day: 5
+    title: No Opinion Required
+    source: M
+    key: "It is in our power to have no opinion about a thing"
+    after: 0
+    before: 0
+    reflection: >
+      Not every event needs a verdict. The neighbor's new fence, a headline you scrolled past,
+      a stranger's odd parking job: each one can simply be noticed and left alone. Forming an
+      opinion feels automatic, but it is optional. Skipping a few of them frees up a surprising
+      amount of attention for things that matter.
+    practice: Let three small things pass today without judging them good or bad, even silently.
+  - day: 6
+    title: Your Own Verdict
+    source: S
+    key: "what you think of yourself is much more to the point"
+    after: 0
+    before: 0
+    reflection: >
+      Likes, reviews and the quiet ranking of colleagues all shift with moods you cannot see.
+      Your own honest assessment of how you lived today is steadier and closer to the truth.
+      This is not about flattering yourself. It means grading yourself on standards you chose,
+      instead of on applause that comes and goes.
+    practice: Before bed, rate your day by one standard you chose, not by anyone's reaction.
+  - day: 7
+    title: You Are an Appearance
+    source: E
+    key: "practise saying to every harsh appearance"
+    after: 0
+    before: 0
+    reflection: >
+      A frown from your spouse, a red number on a lab result, a late notice in the mail: each
+      arrives looking like a verdict. Pausing to call it an impression buys a few seconds of
+      space. In that gap you can check what it really means before your stomach decides for
+      you.
+    practice: When bad news lands today, say quietly, this is an impression, then take one breath.
+  - day: 8
+    title: The Retreat Within
+    source: M
+    key: "Men seek retreats for themselves, houses in the country"
+    after: 1
+    before: 0
+    reflection: >
+      Vacations are lovely, and the cabin by the lake will still be booked out for months.
+      The calmer room is closer. A few slow minutes in the car before walking into the house,
+      or at your desk between calls, can reset a frayed mind. That retreat is always open and
+      costs nothing.
+    practice: Take five quiet minutes in your parked car or at your desk before your next task.
+  - day: 9
+    title: Passenger and Pilot
+    source: S
+    key: "A pilot has a double rôle"
+    after: 1
+    before: 0
+    reflection: >
+      Turbulence rattles everyone on the plane, including the person flying it. The difference
+      is that the pilot still has a job to do while the cabin shakes. A layoff rumor or a family
+      crisis may toss you around as a passenger. Your role as the one steering your own conduct
+      stays fully intact.
+    practice: In today's hardest moment, ask what the pilot in you should do next.
+  - day: 10
+    title: An Impediment to the Leg
+    source: E
+    key: "Disease is an impediment to the body"
+    after: 1
+    before: 0
+    reflection: >
+      A torn ligament can cancel the running season. It cannot cancel kindness, curiosity or
+      the choice to rehab with care. Illness and injury narrow what the body can do, and that
+      loss is real. Yet the part of you that decides how to meet the setback remains
+      unhurt and ready to work.
+    practice: Name one limit you face and one choice that limit cannot touch.
+  - day: 11
+    title: Let It Fall
+    source: M
+    key: "Let there fall externally what will on the parts"
+    after: 3
+    before: 0
+    reflection: >
+      Rain on the commute, a dent in the bumper, a cold that lingers for a week. These land on
+      the outer parts of life, and they may ache. Whether they also count as disasters is a
+      separate question, and you get the final word on it. Many days improve once that word is
+      withheld.
+    practice: When a minor setback happens today, decline to call it bad for one full hour.
+  - day: 12
+    title: Hope and Despair
+    source: S
+    key: "sowing a crop of trouble by alternate hoping and despairing"
+    after: 1
+    before: 0
+    reflection: >
+      Waiting on test results, a job offer or a house closing can feel like riding a swing.
+      Each email lifts or drops you. The swinging is self-made, because neither outcome is
+      decided by your mood. Holding hope and realism together steadies the ride and leaves
+      energy for the work that is actually yours.
+    practice: Write down your best and worst realistic outcomes for one pending matter, then close the notebook.
+  - day: 13
+    title: Keep What Is Yours
+    source: E
+    key: "Keep by every means what is your own"
+    after: 1
+    before: 0
+    reflection: >
+      Your word, your decency and your sense of shame at a cheap shortcut belong only to you.
+      A thief can take the car; nobody can take your integrity unless you hand it over. That
+      handing over usually happens quietly, in a small fudge on a form or a promise left to
+      slide.
+    practice: Keep one small promise today that nobody would notice if you broke.
+  - day: 14
+    title: Blame Nobody
+    source: M
+    key: "Thou must blame nobody"
+    after: 1
+    before: 0
+    reflection: >
+      Blame feels productive, but it rarely fixes the leaking sink. When something goes wrong,
+      the useful questions are simple. Can I fix the cause? If not, can I handle the result? If
+      neither, then griping only adds a second problem to the first. This keeps attention on
+      repair instead of on fault.
+    practice: When something goes wrong today, ask only, what can I fix, before saying anything else.
+  - day: 15
+    title: Ruled by Reason
+    source: S
+    key: "if you would have all things under your control"
+    after: 0
+    before: 0
+    reflection: >
+      Wanting control over everything usually ends in exhaustion: the kids, the team, the
+      traffic, the group chat. Seneca turns the wish around. Govern your own reactions first,
+      and you will find you handle far more situations well. Steady people end up shaping
+      rooms without trying to control them.
+    practice: Before reacting to a frustration today, count to five and choose your response on purpose.
+  - day: 16
+    title: What Will Happen?
+    source: E
+    key: "What shall I do? how will it be?"
+    after: 1
+    before: 0
+    reflection: >
+      Lying awake rehearsing tomorrow's meeting or next month's bills is a familiar habit. The
+      questions keep circling because they aim at outcomes nobody can settle at three in the
+      morning. A better question is smaller and answerable: what will I do, and how well will I
+      do it?
+    practice: Turn one nagging what-if into a single next action, and write it down.
+  - day: 17
+    title: A Different Prayer
+    source: M
+    key: "Another thus: How shall I not lose my little son?"
+    after: 1
+    before: 0
+    reflection: >
+      Every parent knows this fear, and Marcus lost several children, so he knew it too. He
+      does not ask anyone to stop loving. He suggests asking for courage instead of guarantees.
+      Nobody can promise that loved ones stay safe, but you can ask to meet whatever comes
+      without being ruled by dread.
+    practice: Replace one worried wish today with a request for the strength to handle it.
+  - day: 18
+    title: Your Own Audience
+    source: S
+    key: "O what ample matter were there for renown"
+    after: 1
+    before: 0
+    reflection: >
+      Some of the bravest work happens where nobody sees it: a sick day handled without
+      snapping, a caregiving night, a quiet apology. No one posts about those. Seneca suggests
+      that your own approval is enough witness. Doing well with no audience may be the clearest
+      sign you are acting for the right reasons.
+    practice: Do one good thing today and tell no one about it.
+  - day: 19
+    title: We Squeeze Ourselves
+    source: E
+    key: "it is we who squeeze ourselves"
+    after: 0
+    before: 0
+    reflection: >
+      A packed calendar, a crowded kitchen, a tight budget can all feel like walls closing in.
+      Often the real pressure comes from the opinion that everything must happen now and
+      perfectly. Loosen that belief and the same room tends to feel bigger, even before
+      anything on the schedule changes.
+    practice: Find one self-imposed rule that is squeezing you today and relax it.
+  - day: 20
+    title: The Promontory
+    source: M
+    key: "Be like the promontory against which the waves"
+    after: 0
+    before: 0
+    reflection: >
+      Waves keep coming: complaints, deadlines, the endless ping of notifications. A rocky
+      headland does not argue with the sea or try to stop the tide. It simply holds its shape,
+      and the water calms around it. Your steadiness can work the same way for a tense
+      household or office.
+    practice: In your next tense conversation, lower your voice and slow your speech on purpose.
+  - day: 21
+    title: Fortune's Full Reach
+    source: S
+    key: "yield not to adversity; trust not to prosperity"
+    after: 0
+    before: 0
+    reflection: >
+      Good years tempt you to assume they will last, and bad ones tempt you to assume they never
+      end. Both assumptions hand your calm to chance. Keeping in mind that circumstances can turn
+      either way is not gloomy. It lets you enjoy a raise or survive a loss without being
+      knocked off balance.
+    practice: Name one good thing you assume will last, and thank it as if it might not.
+  - day: 22
+    title: Like a Stone
+    source: E
+    key: "Stand by a stone and revile it"
+    after: 1
+    before: 0
+    reflection: >
+      An insult needs a landing spot. When a driver honks or a commenter sneers, the barb only
+      works if you catch it and hold on. Listening calmly, without taking the bait, leaves the
+      critic with nothing to push against. Useful feedback can still be kept; the venom can be
+      left on the curb.
+    practice: When someone takes a jab at you today, answer calmly or not at all.
+  - day: 23
+    title: Let Them Be Liars
+    source: M
+    key: "Let it not be in any man's power to say truly of thee"
+    after: 0
+    before: 0
+    reflection: >
+      Gossip and criticism are out of your hands. Whether they are accurate is not. If you
+      live honestly and kindly, a false remark stays false no matter how loudly it travels.
+      That shifts the job from managing your image, which is impossible, to managing your
+      conduct, which is entirely possible.
+    practice: Pick one quality you want said of you, and act on it once before noon.
+  - day: 24
+    title: A Safe Harbour
+    source: S
+    key: "The only harbour safe from the seething storms"
+    after: 0
+    before: 0
+    reflection: >
+      Worrying about next year's economy, next week's diagnosis or tomorrow's commute rarely
+      prepares you for any of them. A firmer stance helps more: decide now to face whatever
+      comes rather than flinch from it. Readiness of that kind is a habit you can build, and
+      it travels well.
+    practice: Choose one thing you dread and decide exactly how you will face it.
+  - day: 25
+    title: Who Can Compel You?
+    source: E
+    key: "If you choose to be modest and faithful"
+    after: 1
+    before: 0
+    reflection: >
+      Pressure can shape your options, but it cannot reach inside and pick for you. A pushy
+      salesperson, a group of friends ordering another round, a manager hinting at a shortcut:
+      none of them can force your agreement. The final yes or no stays in your mouth, even when
+      saying it is hard.
+    practice: Say no today to one request that goes against what you actually value.
+  - day: 26
+    title: Your Own Good
+    source: M
+    key: "He who loves fame considers another man's activity"
+    after: 0
+    before: 0
+    reflection: >
+      If your happiness depends on praise, you have parked it in other people's mouths. If it
+      depends on pleasure, it rides on sensations that fade by dinner. Measuring a day by what
+      you did well puts the scorecard back in your own hands, where nobody else can smudge it.
+    practice: Tonight list three things you did well today, regardless of how anyone responded.
+  - day: 27
+    title: Ready for Either
+    source: S
+    key: "He is ready for either outcome"
+    after: 1
+    before: 0
+    reflection: >
+      A good quarter and a bad one both test character. Money can make you careless, and loss
+      can make you bitter. Paying attention to how you behave, rather than to which way things
+      broke, keeps you useful in both. The circumstances change; the job of acting well stays
+      the same.
+    practice: Whatever news arrives today, ask how a person you admire would carry it.
+  - day: 28
+    title: Contend With the Image
+    source: E
+    key: "when the appearance (of things) pains you"
+    after: 0
+    before: 0
+    reflection: >
+      A first jolt of hurt or fear arrives on its own, and that part is not your fault. What
+      follows is different. One painful thought can spawn ten imagined scenes of worse to come.
+      Catching that chain early, and refusing to let it run, is where your real power begins.
+    practice: When a painful thought arrives, stop at the first image and refuse the sequel.
+  - day: 29
+    title: The Citadel
+    source: M
+    key: "Therefore the mind which is free from passions is a citadel"
+    after: 0
+    before: 0
+    reflection: >
+      Houses, savings and health can all be breached by events. A settled mind is harder to
+      storm. It does not mean feeling nothing; it means not being dragged around by every surge
+      of anger or fear. Building that inner fortress happens in ordinary moments, one calm
+      response at a time.
+    practice: Notice the next surge of anger today and wait ten breaths before acting on it.
+  - day: 30
+    title: Goods From Within
+    source: S
+    key: "let your thoughts, your efforts, your desires"
+    after: 0
+    before: 0
+    reflection: >
+      Wishing for a bigger house, a better job or a smoother family is natural. Seneca suggests
+      sending those wishes off and turning your effort toward what grows from you: patience,
+      skill, generosity. Those goods are portable and cannot be repossessed, which makes them a
+      surprisingly secure investment.
+    practice: Spend twenty minutes today improving one skill that nobody can take away from you.
+  - day: 31
+    title: A Waveless Bay
+    source: M
+    key: "Consider that everything is opinion, and opinion is in thy power"
+    after: 1
+    before: 0
+    reflection: >
+      After a month of sorting what is yours from what is not, one tool stands out. Your
+      opinions are the rudder. Change how you judge a delay, a loss or a slight, and the
+      rough water often calms. The sea may stay choppy, yet the ship feels steadier.
+    practice: Review this month's two-column list and move any worry that belongs in the other column.

@@ -1,0 +1,355 @@
+month: 2
+theme: Mastering Emotion
+intro: >
+  Anger, fear, grief and desire are not enemies to be crushed; they are weather that moves
+  through every life. This month is about noticing them early, feeling them honestly, and
+  keeping your hands on the wheel while they pass. The goal is not a colder heart but a steadier one.
+days:
+  - day: 1
+    title: Catch It Small
+    source: S
+    key: "Every emotion at the start is weak"
+    after: 1
+    before: 0
+    reflection: >
+      Irritation at a slow reply, a flicker of envy at a friend's new house, a small worry
+      about a test result. Each starts as a spark you could pinch out with two fingers. Wait
+      an hour, feed it with replayed conversations, and it becomes a fire that runs your
+      evening. Noticing early is most of the work.
+    practice: When you feel the first twinge of irritation today, name it out loud and pause.
+  - day: 2
+    title: Back in Tune
+    source: M
+    key: "compelled by circumstances to be disturbed in a manner"
+    after: 0
+    before: 0
+    reflection: >
+      Nobody stays calm all the time, and Marcus does not ask you to. A bad phone call or a
+      near miss on the highway will knock you off balance. What matters is how quickly you
+      come back. Like a musician retuning between songs, the more often you return to center,
+      the easier the return becomes.
+    practice: After any upsetting moment today, take three slow breaths before your next action.
+  - day: 3
+    title: Sympathy Without Drowning
+    source: E
+    key: "When you see a person weeping in sorrow"
+    after: 1
+    before: 0
+    reflection: >
+      When a friend calls in tears about a layoff or a diagnosis, it is easy to get swept into
+      the same panic. Real help usually needs a steadier person on the line. You can grieve
+      with someone while remembering that their pain flows from how they see the event, and
+      that a calm view may help them most.
+    practice: When someone shares bad news today, listen fully before offering any reaction or advice.
+  - day: 4
+    title: No Bread Tonight
+    source: S
+    key: "So I am getting rid of fatigue at my writing-table"
+    after: 1
+    before: 0
+    reflection: >
+      Seneca arrives home tired, finds dinner unready, and decides to treat it as a lesson
+      rather than an outrage. Most of our anger works this way: the late delivery or the
+      forgotten errand is small, and the fury we pile on top is what makes it heavy. Taking it
+      lightly is a choice, not a personality.
+    practice: When something at home goes wrong today, describe it once in plain words, then let it go.
+  - day: 5
+    title: The Bitter Honey
+    source: M
+    key: "To the jaundiced honey tastes bitter"
+    after: 2
+    before: 0
+    reflection: >
+      A sick tongue makes good honey taste foul, and a mistaken belief makes ordinary events
+      feel like insults. When a coworker's short email ruins your morning, the email may not
+      be the real problem. Your reading of it might be. Asking why you are angry often reveals
+      an opinion you can examine and revise.
+    practice: Before reacting to any message that annoys you, write down what you assumed it meant.
+  - day: 6
+    title: Who Holds Your Mind
+    source: E
+    key: "you put your understanding in the power of any man"
+    after: 0
+    before: 0
+    reflection: >
+      You would never hand your car keys to a stranger in a parking lot. Yet a rude driver,
+      an anonymous comment, or a snippy relative can take control of your mood for hours.
+      Their words are theirs. Whether those words get to steer your thoughts is still up to
+      you, and that is worth guarding carefully.
+    practice: If someone insults or criticizes you today, wait ten minutes before you reply.
+  - day: 7
+    title: Hope and Fear Together
+    source: S
+    key: "Just as the same chain fastens the prisoner"
+    after: 1
+    before: 0
+    reflection: >
+      Hoping hard for the promotion, the clean scan, or the perfect vacation quietly creates its
+      twin, the dread that it will not happen. Both live in a future that has not arrived.
+      Loosening your grip on outcomes does not mean you stop caring. It means today stops being
+      held hostage by tomorrow.
+    practice: Notice one hope you keep checking on today, and turn your attention to the present task.
+  - day: 8
+    title: Ask Instead of Fearing
+    source: M
+    key: "What need is there of suspicious fear"
+    after: 1
+    before: 0
+    reflection: >
+      Vague dread thrives on not looking. The unopened bill, the odd noise in the engine, the
+      tension with a sibling all grow larger in the dark. Marcus points to a simpler move: find
+      out what needs doing. If the path is clear, take it. If it is not, ask someone who knows
+      more than you.
+    practice: Pick one thing you have been avoiding out of worry and take the first concrete step.
+  - day: 9
+    title: Knowing What You Hold
+    source: E
+    key: "If you love an earthen vessel"
+    after: 1
+    before: 0
+    reflection: >
+      This sounds harsh at first, but it is really about honesty. A favorite mug can break.
+      The people you love are mortal. Remembering this does not make you love them less; it can
+      make the goodnight hug or the ordinary dinner feel more precious, and it softens the
+      shock when loss eventually comes.
+    practice: Tonight, give the people at home your full attention for one uninterrupted conversation.
+  - day: 10
+    title: Let the Tears Fall
+    source: S
+    key: "Tears fall, no matter how we try to check them"
+    after: 3
+    before: 0
+    reflection: >
+      Stoicism is often mistaken for a stiff upper lip. Seneca disagrees. Grief that rises on
+      its own deserves to be felt, and tears can bring real relief. What he warns against is
+      performing sorrow for an audience or feeding it beyond its natural course. Honest
+      feeling, without the extra layers of show.
+    practice: If something saddens you today, allow yourself to feel it privately for a few minutes.
+  - day: 11
+    title: Go Away, Thought
+    source: M
+    key: "What then art thou doing here, O imagination"
+    after: 3
+    before: 0
+    reflection: >
+      Old worries and resentments return like a neighbor who knocks at the same hour each night.
+      Marcus does not scold the thought or fight it. He simply tells it to leave, without anger.
+      The next time a familiar anxious loop starts at two in the morning, a gentle refusal may
+      work better than an argument.
+    practice: When a recurring worry shows up today, quietly say not now, and return to your task.
+  - day: 12
+    title: The Stolen Coat
+    source: E
+    key: "we value so much the things of which these men rob us"
+    after: 1
+    before: 1
+    reflection: >
+      Much of our anger at others tracks how much we prize what they took or damaged. A dented
+      bumper enrages the person who treats the car as part of their identity. Valuing things a
+      little less does not make you careless. It makes the inevitable scratches, losses, and
+      thefts far easier to absorb.
+    practice: Identify one possession you guard anxiously, and imagine calmly how you would cope without it.
+  - day: 13
+    title: Fear of Losing
+    source: S
+    key: "It is tragic for the soul to be apprehensive of the future"
+    after: 2
+    before: 0
+    reflection: >
+      Sometimes the fear of losing something does more damage than the loss itself. Parents
+      who constantly imagine harm to their children, or savers who check the market every
+      hour, suffer the loss in advance and again if it ever arrives. Meanwhile the good thing
+      sitting right in front of them goes unenjoyed.
+    practice: Spend fifteen minutes enjoying something you value without checking on its future.
+  - day: 14
+    title: Turn the Mirror
+    source: M
+    key: "When thou art offended at any man's fault"
+    after: 1
+    before: 0
+    reflection: >
+      Your colleague takes credit for your work, and the irritation flares. Before it hardens,
+      ask where you have chased status, money, or approval in your own way. Seeing the same
+      weakness in yourself rarely excuses the behavior, but it cools the outrage and leaves you
+      clearer about how to respond.
+    practice: The next time someone annoys you, recall one time you made a similar mistake.
+  - day: 15
+    title: Let It Wait
+    source: E
+    key: "If you have received the impression of any pleasure"
+    after: 1
+    before: 0
+    reflection: >
+      The urge to order dessert, buy the gadget, or scroll for another twenty minutes always
+      feels urgent. Epictetus suggests a simple delay. Picture the moment of enjoyment, then
+      picture yourself afterward. Often the second picture settles the matter, and the craving
+      loses its grip once you have given it a pause.
+    practice: Before your next impulse purchase or snack, wait five minutes and picture how you will feel after.
+  - day: 16
+    title: Subtract, Don't Add
+    source: S
+    key: "to make Pythocles rich, do not add to his store of money"
+    after: 0
+    before: 0
+    reflection: >
+      The usual plan for feeling richer is to earn more. Epicurus, quoted here by Seneca,
+      offers the other lever: want less. A raise can be swallowed by rising expectations, but
+      trimming a desire works immediately and costs nothing. Contentment often arrives faster
+      by subtraction than by any amount of addition.
+    practice: Cancel or skip one purchase or subscription you only half want.
+  - day: 17
+    title: One Letter at a Time
+    source: M
+    key: "every duty is made up of certain parts"
+    after: 1
+    before: 0
+    reflection: >
+      When the people around you are tense, their mood can tug you into the same storm. A
+      meeting turns sharp, a child melts down, a customer raises their voice. The steady path
+      is to keep doing the next small part of your job well, without matching the heat that
+      others bring into the room.
+    practice: When someone around you gets heated today, lower your voice and focus on the next step.
+  - day: 18
+    title: The Missing Lamp
+    source: E
+    key: "I also lately had an iron lamp placed"
+    after: 3
+    before: 0
+    reflection: >
+      Epictetus loses a lamp to a thief and responds with a shrug and a cheaper replacement.
+      The thief did what thieves do. You only lose what you own, so ownership always carries
+      the chance of loss. Seeing that ahead of time turns a stolen package or broken phone into
+      an errand rather than a tragedy.
+    practice: If something breaks or goes missing today, replace or repair it without telling the story twice.
+  - day: 19
+    title: Twice Tormented
+    source: S
+    key: "Beasts avoid the dangers which they see"
+    after: 1
+    before: 0
+    reflection: >
+      A deer escapes the hawk and goes back to grazing. People replay last year's embarrassment
+      and rehearse next month's disaster in the same afternoon. Memory and imagination are
+      gifts, but they can also make you live through pain that is long over or may never come.
+      Present trouble is usually enough.
+    practice: When you catch yourself replaying an old regret, stand up and do something with your hands.
+  - day: 20
+    title: Check the Strings
+    source: M
+    key: "something better and more divine than the things"
+    after: 1
+    before: 0
+    reflection: >
+      Feelings can pull you around like a puppet: a notification jolts you, a headline sours you,
+      a craving steers you to the fridge. Marcus asks a plain question worth borrowing. What is
+      in my mind right now? Naming the fear, suspicion, or desire is often enough to loosen its
+      hold on your hands.
+    practice: Three times today, stop and ask yourself which feeling is steering you right now.
+  - day: 21
+    title: Small Change First
+    source: E
+    key: "Begin then from little things"
+    after: 3
+    before: 0
+    reflection: >
+      Nobody learns calm in a crisis. You practice on spilled coffee, a lost charger, a child
+      who left the milk out. Each small annoyance is a cheap lesson in letting go. Pay that
+      small price now, and you build the habit that will hold when something truly hard
+      arrives.
+    practice: Treat the first minor mishap today as practice and respond with deliberate calm.
+  - day: 22
+    title: Remembering Without Bitterness
+    source: S
+    key: "You may, however, speak often concerning the departed"
+    after: 1
+    before: 0
+    reflection: >
+      Grief does not require silence. Seneca encourages talking about the people you have lost
+      and keeping their memory close. The difference lies in tone. Memories approached with
+      gratitude keep visiting gladly; memories wrapped in bitterness become painful to touch,
+      and so they fade. Let the stories be warm.
+    practice: Share one happy memory of someone you have lost with a friend or family member.
+  - day: 23
+    title: Feel It, Don't Judge It
+    source: M
+    key: "Let the part of thy soul which leads and governs"
+    after: 0
+    before: 0
+    reflection: >
+      A sore back, a craving, a rush of adrenaline before a hard conversation are all real
+      sensations in the body. Marcus does not deny them. He only asks that your thinking mind
+      keep its own boundaries, noticing the feeling without letting it write the plan for the
+      rest of your afternoon.
+    practice: When a strong bodily feeling arises today, locate it physically before deciding anything.
+  - day: 24
+    title: Groan, but Lightly
+    source: E
+    key: "do not groan inwardly; and if your slave"
+    after: 0
+    before: 0
+    reflection: >
+      You are allowed to say ouch. A headache or a slow pharmacy line is genuinely unpleasant.
+      The trouble starts when the groan turns inward and becomes a story that everyone is
+      against you. Complaining once is human. Building a case of personal persecution only
+      makes the original discomfort worse.
+    practice: When something hurts or frustrates you today, mention it once and skip the commentary.
+  - day: 25
+    title: Joy Without Clutter
+    source: S
+    key: "Joy is the goal which you desire to reach"
+    after: 1
+    before: 0
+    reflection: >
+      Plenty of people chase titles, bigger houses, and nicer cars as a route to happiness, then
+      find the new things arrive with new worries attached. Seneca is not against comfort. He
+      simply notices that joy rarely lives inside a pile of cares, and that the things we
+      strive for often deliver anxiety instead.
+    practice: Write down one goal you are chasing and ask honestly whether it will bring peace.
+  - day: 26
+    title: Pain Stops at the Door
+    source: M
+    key: "it is in the power of the soul to maintain"
+    after: 1
+    before: 0
+    reflection: >
+      A sprained ankle hurts, and Marcus would not pretend otherwise. His point is that the body
+      can register pain while the mind decides what the pain means. Judging it a disaster adds
+      a second injury. Treating it as unpleasant but bearable keeps your mood and your choices
+      in your own hands.
+    practice: If you feel discomfort today, describe it to yourself in neutral words, without drama.
+  - day: 27
+    title: Wanting What Comes
+    source: E
+    key: "Seek not that the things which happen should happen as you wish"
+    after: 0
+    before: 0
+    reflection: >
+      Rain on the picnic, a canceled flight, a meeting that runs long. Most frustration is the
+      gap between the day you planned and the day you got. Epictetus suggests closing that gap
+      from your side, by welcoming what actually happens. It sounds passive, yet it frees
+      enormous energy for what you can still do.
+    practice: When a plan changes today, say to yourself, this works too, and adjust.
+  - day: 28
+    title: Calm Seas, Prepared Mind
+    source: S
+    key: "He who can bear Fortune, can also beware of Fortune"
+    after: 2
+    before: 0
+    reflection: >
+      Preparation and panic look similar from a distance, but they feel completely different.
+      Buying insurance, saving an emergency fund, and scheduling the checkup are calm acts of
+      foresight. Lying awake imagining every disaster is not. Seneca wants the first without the
+      second, a quiet sea with a sturdy boat.
+    practice: Take one sensible precaution you have postponed, then stop worrying about that risk.
+  - day: 29
+    title: Counting What You Have
+    source: M
+    key: "Think not so much of what thou hast not"
+    after: 1
+    before: 0
+    reflection: >
+      An extra day on the calendar is a good moment to take stock. Desire tends to fix on what
+      is missing. Marcus suggests looking at the best of what you already have and imagining how
+      much you would miss it. Just do not cling so tightly that losing it someday would undo
+      you.
+    practice: List three things you already have that you would badly miss if they vanished.

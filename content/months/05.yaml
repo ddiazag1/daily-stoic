@@ -1,0 +1,405 @@
+month: 5
+theme: Character
+intro: >
+  Character is what remains when the speeches are over and nobody is watching.
+  This month turns from ideas about goodness to the daily work of being good:
+  keeping promises, telling the truth, forgiving quickly, and acting the same way
+  in a quiet kitchen as in a crowded meeting.
+days:
+  - day: 1
+    title: Stop Talking, Start Being
+    source: M
+    key: "talk at all about the kind of man"
+    after: 0
+    before: 0
+    reflection: >
+      It is easy to spend an evening describing the person you want to be: more
+      patient with the kids, more honest at work, less glued to the phone. Marcus
+      cuts the conversation short. The description is not the thing. One small,
+      unannounced act of patience today counts for more than a page of resolutions
+      written in a journal.
+    practice: Choose one virtue you often talk about and quietly practice it before noon.
+  - day: 2
+    title: Habits Build the Person
+    source: E
+    key: "Thus modest actions preserve the modest man"
+    after: 1
+    before: 0
+    reflection: >
+      Nobody wakes up dishonest or bitter. These traits are built the way muscles
+      are, one repetition at a time. Every snapped reply to a coworker makes the
+      next one easier, and every kept promise does the same in the other direction.
+      Your character is less a fixed trait than a running total of what you keep
+      doing.
+    practice: Notice one habit you repeated today and decide whether to strengthen or starve it.
+  - day: 3
+    title: Just Without Reward
+    source: S
+    key: "I must be just without reward"
+    after: 1
+    before: 0
+    reflection: >
+      Fairness that expects a thank-you is closer to a trade. Seneca asks for
+      something sturdier: doing right because it is right, and even enjoying it.
+      Splitting the bill honestly, crediting a colleague in front of the boss,
+      returning extra change at the register. None of these may be noticed, and
+      that is exactly what makes them yours.
+    practice: Do one fair thing today that nobody will ever find out about.
+  - day: 4
+    title: It Shows in the Eyes
+    source: M
+    key: "Such as a man's character is, he immediately shows it"
+    after: 1
+    before: 0
+    reflection: >
+      People can usually tell. Children know when a parent is distracted, and
+      customers know when a smile is forced. Marcus suggests that goodness has a
+      kind of scent that cannot be faked or hidden for long. Rather than managing
+      how you come across, the simpler path is to become the person you would like
+      others to sense.
+    practice: In your next conversation, put the phone away and give full, honest attention.
+  - day: 5
+    title: Money or a Friend
+    source: E
+    key: "If I can acquire money and also keep myself modest"
+    after: 2
+    before: 0
+    reflection: >
+      Epictetus is not against earning. He simply refuses a deal that costs his
+      integrity. Friends and family sometimes push for the raise, the bigger house,
+      the shortcut. The question he poses is a good one to carry into any
+      negotiation: what do the people who love you actually need from you, a larger
+      paycheck or someone they can trust?
+    practice: Before your next money decision, ask whether it requires bending a principle.
+  - day: 6
+    title: Virtue Needs No Costume
+    source: S
+    key: "virtue needs nothing to set it off"
+    after: 0
+    before: 0
+    reflection: >
+      Seneca wrote this after meeting a frail, unattractive old man whose spirit
+      impressed him more than any handsome face. Goodness does not depend on a
+      good haircut, a new car, or a polished profile picture. A tired nurse at the
+      end of a double shift can carry more dignity than anyone at the gala.
+    practice: Compliment someone today on a quality of character rather than appearance.
+  - day: 7
+    title: Keep Your Color
+    source: M
+    key: "I must be good; just as if the gold"
+    after: 1
+    before: 0
+    reflection: >
+      An emerald does not turn gray because someone insults it. Marcus wants that
+      same stubbornness in himself. When a driver cuts you off or a relative makes
+      a pointed remark at dinner, the temptation is to match their tone. Staying
+      yourself, kind and steady, is not weakness. It is simply refusing to let
+      someone else choose your color.
+    practice: When someone is rude today, answer in the tone you would use on a good day.
+  - day: 8
+    title: Being a Good Brother
+    source: E
+    key: "know that you are a brother also"
+    after: 0
+    before: 0
+    reflection: >
+      Every role carries its own duties. A sibling, a spouse, a neighbor, a
+      teammate: each title quietly says how to behave. Epictetus advises giving way
+      on small things like the best seat or the bigger share, and keeping the
+      larger prize of a good heart. Most family feuds are fought over lettuce and
+      chairs.
+    practice: Let a family member win one small disagreement today without keeping score.
+  - day: 9
+    title: Generous Bookkeeping
+    source: S
+    key: "so arranges the two sides of his ledger"
+    after: 1
+    before: 0
+    reflection: >
+      Most of us keep careful accounts of who owes what, especially after a slight.
+      Seneca describes a different accountant, one who rounds the favors up and the
+      injuries down. A friend who forgot your birthday also helped you move last
+      spring. Remembering the help and letting the hurt shrink is not naive. It
+      keeps relationships alive.
+    practice: Recall one good thing done by someone who recently annoyed you.
+  - day: 10
+    title: Good Today, Not Tomorrow
+    source: M
+    key: "Attend to the matter which is before thee"
+    after: 1
+    before: 0
+    reflection: >
+      Tomorrow is a comfortable place to keep your better self. Tomorrow you will
+      start exercising, call your mother, be gentle with the kids. Marcus points
+      out that the trouble you feel now comes from that very postponement. The task
+      in front of you, the word you are about to say, is the only place goodness
+      can happen.
+    practice: Do today the one kind thing you have been planning to do someday.
+  - day: 11
+    title: Why Not Good Yourself
+    source: E
+    key: "Have you taken pains to learn what is a good man"
+    after: 1
+    before: 0
+    reflection: >
+      Plenty of people can explain what a good person looks like. They can spot
+      hypocrisy in politicians and coworkers within seconds. Epictetus turns the
+      question around with uncomfortable directness. If you know the standard so
+      well, what is stopping you from meeting it? Knowledge is only the starting
+      line, and judging others is not the same as running.
+    practice: Catch yourself criticizing someone today and ask where you fall short in the same way.
+  - day: 12
+    title: Unharmed by Insult
+    source: S
+    key: "Allow any man who so desires to insult you"
+    after: 1
+    before: 0
+    reflection: >
+      Being disliked feels like damage, but Seneca disagrees. A harsh online
+      comment, a cold shoulder at the office, an in-law who thinks you are foolish:
+      none of it reaches the part of you that matters if you are acting well.
+      Integrity sometimes costs approval. The trade is worth making more often than
+      it seems.
+    practice: Hold to one decision today that you know some people will not like.
+  - day: 13
+    title: Eyes on Your Business
+    source: M
+    key: "having fixed thy eyes steadily on thy business"
+    after: 0
+    before: 0
+    reflection: >
+      Picture a surgeon who keeps looking up at the gallery. Marcus gives a plain
+      recipe for the working day: look at the job, remember that being decent is
+      part of it, and speak honestly but kindly. No posturing, no hidden agenda.
+      Whether you are writing code or stocking shelves, the same instructions
+      apply.
+    practice: In your next meeting, say what you actually think, gently and without spin.
+  - day: 14
+    title: Eating, Not Storing
+    source: E
+    key: "lay up bread and wine as in a storehouse"
+    after: 1
+    before: 0
+    reflection: >
+      A pantry full of food does nothing for someone who never eats. Books,
+      podcasts, and wise quotes work the same way. Stored up, they make you look
+      thoughtful. Digested, they become patience in traffic and honesty on a tax
+      form. Epictetus wants philosophy turned into muscle and blood, not kept on a
+      shelf for display.
+    practice: Take one idea you read this week and act on it before bedtime.
+  - day: 15
+    title: The Power of Example
+    source: S
+    key: "Consider how much we are helped by good example"
+    after: 0
+    before: 0
+    reflection: >
+      Think of a teacher, a grandparent, or a coach whose standards still steer
+      you years later. Their influence did not end when they left the room, or
+      even when they died. Seneca reminds us that good character keeps working
+      long after its owner is gone. Someone is quietly learning from you right now,
+      too.
+    practice: Write a short note thanking someone whose example shaped you.
+  - day: 16
+    title: Portrait of a Decent Man
+    source: M
+    key: "He was accustomed to do acts of beneficence"
+    after: 0
+    before: 0
+    reflection: >
+      Marcus opens his notebook by listing what he admired in others. His teacher
+      Maximus was generous, quick to forgive, and incapable of lying. Notice that
+      none of this is dramatic. It is a description of someone pleasant to work
+      beside and safe to trust. Such people are rare, and anyone can decide to
+      become one.
+    practice: Forgive one small offense today before the other person asks.
+  - day: 17
+    title: The Losses That Count
+    source: E
+    key: "if you shall lose modesty, moderation and gentleness"
+    after: 0
+    before: 0
+    reflection: >
+      A dented bumper or a bad week in the market gets immediate attention. Losing
+      your temper with a child, or slowly becoming harsher with a spouse, tends to
+      go unrecorded. Epictetus asks which loss is really worse. Money and objects
+      can be replaced. A gentle disposition, once worn away, takes far longer to
+      rebuild.
+    practice: Tonight, review the day for any moment you lost your gentleness.
+  - day: 18
+    title: Light Behind Clouds
+    source: S
+    key: "obstacles take nothing away from virtue"
+    after: 1
+    before: 0
+    reflection: >
+      Illness, a layoff, or a rough season at home can make you feel like a lesser
+      person. Seneca compares goodness to the sun during an eclipse: harder to see,
+      yet just as strong. You may not be able to give or do as much right now.
+      Your honesty and kindness are still intact, working quietly.
+    practice: On a hard day, do one small kind act anyway, however modest.
+  - day: 19
+    title: Names Worth Keeping
+    source: M
+    key: "When thou hast assumed these names, good, modest"
+    after: 0
+    before: 0
+    reflection: >
+      Choose a few words you want to live up to: honest, calm, generous. Marcus
+      expects that you will slip, and he does not ask for perfection. He asks that
+      you notice the slip and return quickly. A bad morning does not have to become
+      a bad day. You can pick the name back up at lunch.
+    practice: Write three words you want to deserve and keep them where you will see them.
+  - day: 20
+    title: Never Irritated in Argument
+    source: E
+    key: "the first and chief peculiarity of Socrates"
+    after: 0
+    before: 0
+    reflection: >
+      Comment sections and family group chats reward the sharpest reply. Epictetus
+      holds up a different model: a man who never lost his temper in debate and
+      who could end a quarrel instead of winning it. That kind of calm is not
+      passivity. It takes more strength to lower the temperature than to raise
+      it.
+    practice: In your next disagreement, aim to end the quarrel rather than win it.
+  - day: 21
+    title: Reputation or Conscience
+    source: S
+    key: "lost his reputation for being a good man"
+    after: 0
+    before: 0
+    reflection: >
+      Sometimes doing the right thing looks bad from the outside. Reporting a
+      problem at work, refusing to join gossip, or keeping a confidence can make
+      you seem difficult or disloyal. Seneca honors the person who accepts that
+      misunderstanding rather than betray their own conscience. Your reputation
+      lives in other heads. Your conscience lives in yours.
+    practice: Decline to join one piece of gossip today, even if it feels awkward.
+  - day: 22
+    title: Try It On
+    source: M
+    key: "Try how the life of the good man suits thee"
+    after: 0
+    before: 0
+    reflection: >
+      Marcus frames goodness as an experiment rather than a lecture. Try it for a
+      day and see how it fits. Be content with what you have, take quiet pleasure
+      in fair dealing, and wish people well. Many who attempt this find it feels
+      lighter than the constant comparing and scheming it replaces.
+    practice: For one day, skip every comparison with what others own or earn.
+  - day: 23
+    title: Whatever Place You Hold
+    source: E
+    key: "Whatever you can, if you maintain at the same time"
+    after: 1
+    before: 1
+    reflection: >
+      People often feel they must reach a big title before they can matter. Epictetus
+      says any post will do, as long as you stay faithful and decent in it. A
+      trustworthy clerk serves the community better than a shameless official. Your
+      town, your company, and your family are improved simply by having one more
+      reliable person in them.
+    practice: Do your most ordinary task today with complete reliability and care.
+  - day: 24
+    title: Unadvertised Virtue
+    source: S
+    key: "Those who wish their virtue to be advertised"
+    after: 2
+    before: 0
+    reflection: >
+      Posting about the donation, mentioning the volunteer hours, letting slip how
+      early you got to the office. Seneca sees through it. If goodness needs an
+      audience, it is really a search for applause. Harder still, he notes, is
+      staying just even when it earns you a bad name instead of a good one.
+    practice: Do one generous thing today and tell absolutely no one.
+  - day: 25
+    title: Forget How It Looks
+    source: M
+    key: "throw away the thought, How thou shall seem"
+    after: 0
+    before: 0
+    reflection: >
+      A great deal of energy goes into managing impressions: the right clothes,
+      the clever email, the curated photos. Marcus, an emperor with every reason to
+      worry about image, tells himself to drop the question entirely. Living well
+      for the rest of your life is enough work. How it appears is somebody else's
+      business.
+    practice: Make one choice today based only on what is right, not how it looks.
+  - day: 26
+    title: Imitating the Best
+    source: E
+    key: "If the divine is faithful, man also must be faithful"
+    after: 0
+    before: 0
+    reflection: >
+      Whatever you believe about God, the method here is practical. Picture the
+      best possible character, faithful, free, generous, large-hearted, and then
+      try to resemble it in what you say and do. Children copy what they admire.
+      Adults do too, so it helps to choose carefully what you hold up as the model.
+    practice: Name the person you most admire and copy one of their habits today.
+  - day: 27
+    title: What Cannot Be Taken
+    source: S
+    key: "As long as your virtue is unharmed"
+    after: 0
+    before: 0
+    reflection: >
+      Jobs end, savings shrink, friends move away. Seneca does not pretend these
+      losses are trivial, but he points to something they cannot touch. Your
+      fairness, courage, and kindness remain wholly yours. On the day everything
+      else feels shaky, that steady core is the place to stand while the rest is
+      rebuilt.
+    practice: List three qualities of yours that no setback could take away.
+  - day: 28
+    title: Character Is a Verb
+    source: M
+    key: "Not in passivity but in activity lie"
+    after: 0
+    before: 0
+    reflection: >
+      Good intentions sitting quietly in the mind do not count for much. Marcus
+      places both virtue and vice in what you actually do. Meaning to call a lonely
+      friend is not kindness; calling is. Planning to apologize is not humility;
+      apologizing is. The good person is identified by verbs rather than
+      adjectives.
+    practice: Turn one good intention into an action within the next hour.
+  - day: 29
+    title: Willing Goodness
+    source: S
+    key: "Every honourable act is voluntary"
+    after: 1
+    before: 0
+    reflection: >
+      Helping a neighbor while muttering complaints, or visiting a parent out of
+      dread, still gets the job done. Seneca notices what is missing: the quiet
+      satisfaction of having chosen it freely. When you have to do something good
+      anyway, decide to want it. The same errand feels very different when it is
+      an act of choice.
+    practice: Pick one obligation today and do it willingly, without a single complaint.
+  - day: 30
+    title: Guide, Do Not Mock
+    source: E
+    key: "Now a guide, when he has found a man out of the road"
+    after: 2
+    before: 0
+    reflection: >
+      When someone does not understand you, the easy move is to roll your eyes and
+      call them clueless. Epictetus compares a good teacher to a trail guide who
+      leads lost hikers back without sneering. If your point did not land with a
+      coworker or a teenager, the problem may be in the explaining, not the
+      listening.
+    practice: Explain something again today, patiently, to someone who did not get it the first time.
+  - day: 31
+    title: Works, Not Words
+    source: S
+    key: "occupy me with the words rather than with the works"
+    after: 2
+    before: 0
+    reflection: >
+      Seneca grows impatient with clever distinctions that change nothing. He
+      wants philosophy to make him braver, calmer, and steadier under pressure.
+      That is a fair test for anything you read, watch, or study. If it does not
+      change how you treat people tomorrow morning, it was entertainment, however
+      deep it sounded.
+    practice: Ask what this month changed in you, and write down one concrete answer.

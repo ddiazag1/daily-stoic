@@ -1,0 +1,368 @@
+month: 4
+theme: The Work in Front of You
+intro: >
+  Most days are not made of grand decisions. They are made of the next email, the next
+  patient, the next load of laundry, the next honest hour at the desk. This month is about
+  getting up, turning toward the task that is actually yours, and doing it well without
+  waiting to feel ready.
+days:
+  - day: 1
+    title: Out From Under the Covers
+    source: M
+    key: "I am rising to the work of a human being"
+    after: 1
+    before: 0
+    reflection: >
+      The alarm goes off and the bed argues its case. Marcus had the same argument with
+      himself, and he answered it by naming what the day was for. You are not getting up to
+      endure a schedule. You are getting up to be useful to the people and tasks waiting on
+      you, which is exactly the point of being here.
+    practice: Before checking your phone, say aloud the one piece of work today is for.
+  - day: 2
+    title: Know What You Are Starting
+    source: E
+    key: "remind yourself what kind of an act it is"
+    after: 0
+    before: 0
+    reflection: >
+      A school pickup line, a budget meeting, a family dinner with a difficult relative: each
+      has its usual friction. Naming that friction before you walk in keeps it from
+      ambushing you. Expecting the interruptions, the delays and the snide comment lets you
+      keep your temper and your aim while everyone else is surprised.
+    practice: Before your hardest appointment today, list two annoyances likely to happen there.
+  - day: 3
+    title: Take the Hill
+    source: S
+    key: "Rise, draw a fresh breath, and surmount that hill"
+    after: 1
+    before: 0
+    reflection: >
+      Seneca writes like a coach on the sideline, shouting encouragement to a runner who is
+      tired but still moving. Effort toward something worthwhile is not a punishment to get
+      through. It feeds you. The report you finally finish, the run you did not skip, leave
+      you stronger than the evening you spent avoiding them.
+    practice: Pick the task you have postponed longest and give it twenty unbroken minutes.
+  - day: 4
+    title: Whatever the Weather
+    source: M
+    key: "Let it make no difference to thee whether thou art cold or warm"
+    after: 0
+    before: 0
+    reflection: >
+      Tired, chilly, underslept, criticized, praised: none of these changes what the job
+      requires. A nurse on a night shift and a parent up with a sick toddler both know this.
+      Conditions will rarely be ideal, and the work is still waiting. Comfort is pleasant
+      when it comes, but it was never part of the job description.
+    practice: Notice one complaint about conditions today and do the task without voicing it.
+  - day: 5
+    title: Count the Cost First
+    source: E
+    key: "In every act consider what precedes and what follows"
+    after: 0
+    before: 0
+    reflection: >
+      Plenty of gym memberships, side businesses and language apps begin with enthusiasm and
+      end in quiet abandonment. Thinking through what a commitment will really demand, the
+      early mornings and the boring middle, is not pessimism. It is how you choose things you
+      will actually finish instead of things you merely admire.
+    practice: Write down what your current goal will cost you each week, honestly.
+  - day: 6
+    title: Life in Little Bits
+    source: S
+    key: "And much harm is done even by one who holds you back"
+    after: 1
+    before: 0
+    reflection: >
+      Every new plan feels like progress, which is why starting over is so tempting. A fresh
+      notebook, a new system, a different diet: each one resets the clock to zero. Steady
+      people are not more talented. They simply keep building on yesterday instead of
+      tearing it down and laying a new foundation every Monday.
+    practice: Return to one abandoned project and do the next step instead of redesigning it.
+  - day: 7
+    title: Not Ten Thousand Years
+    source: M
+    key: "Do not act as if thou wert going to live ten thousand years"
+    after: 2
+    before: 0
+    reflection: >
+      Someday is a comfortable word. Someday you will call your brother, fix the gutter, read
+      to the kids more, start saving properly. Marcus reminds himself that the supply of days
+      is limited and unknown. That is not meant to frighten you. It is meant to move the good
+      thing from someday onto today's list.
+    practice: Take one item from your someday list and schedule it for this week.
+  - day: 8
+    title: Play the Part Well
+    source: E
+    key: "Remember that thou art an actor in a play"
+    after: 1
+    before: 0
+    reflection: >
+      Nobody picked their parents, their height, their hometown or the economy they
+      graduated into. You can spend energy resenting the role or spend it performing the
+      role with skill and grace. The person caring for an aging parent, or working an
+      unglamorous job, can still play it beautifully.
+    practice: Name your least favorite role this week and do one part of it wholeheartedly.
+  - day: 9
+    title: Ask for the Work
+    source: S
+    key: "It is not enough if you do not shrink from work; ask for it"
+    after: 0
+    before: 1
+    reflection: >
+      There is a difference between tolerating hard tasks and seeking them. Volunteering for
+      the tricky project, taking the shift no one wants, offering to handle the paperwork:
+      these build the kind of capacity that cannot be gained by waiting. Discouragement fades
+      faster when your hands are busy with something difficult and worthwhile.
+    practice: Volunteer today for one task others are avoiding, at work or at home.
+  - day: 10
+    title: Neither Martyr Nor Star
+    source: M
+    key: "Labor not as one who is wretched"
+    after: 0
+    before: 0
+    reflection: >
+      Some people work while sighing loudly so everyone knows how hard it is. Others work for
+      the applause. Both are performing for an audience. Marcus wants something quieter: do
+      the work because it needs doing, start when it is time, stop when it is enough, and let
+      nobody's pity or praise set the pace.
+    practice: Finish one chore today without mentioning it to anyone afterward.
+  - day: 11
+    title: What Can I Use Here
+    source: E
+    key: "remember to turn to yourself and inquire what power you have"
+    after: 0
+    before: 0
+    reflection: >
+      A canceled flight, a rude reply, a back that aches on the drive home. Each one arrives
+      with a question attached: what in me can meet this? Sometimes the answer is patience,
+      sometimes endurance, sometimes a sense of humor. Asking the question shifts you from
+      victim of the moment to someone with tools in hand.
+    practice: When something goes wrong today, name the specific strength it is asking you to use.
+  - day: 12
+    title: The Same Wants as Yesterday
+    source: S
+    key: "Make progress, and, before all else, endeavour to be consistent with yourself"
+    after: 1
+    before: 0
+    reflection: >
+      Here is a simple test of whether you are getting anywhere. Are you still pursuing what
+      you chose last week, or has a new podcast, ad or friend's success pulled you off in
+      another direction? Wanting different things every few days feels lively but usually
+      means drifting. Steady aims are what let small efforts add up.
+    practice: Compare today's priorities with last month's and drop one that does not belong.
+  - day: 13
+    title: Am I Up to This
+    source: M
+    key: "Is my understanding sufficient for this or not"
+    after: 1
+    before: 0
+    reflection: >
+      An honest question lies underneath every assignment: do I have what this needs? If
+      yes, use it fully, without false modesty. If not, the answer is not to bluff. Ask a
+      colleague, hand it to someone better suited, or learn what you are missing. Knowing
+      your capacity is part of doing work well.
+    practice: Before your next task, ask whether you are the right person, and act on the answer.
+  - day: 14
+    title: Whole Soul, One Thing
+    source: E
+    key: "you are at one time a wrestler (athlete), then a gladiator"
+    after: 0
+    before: 0
+    reflection: >
+      Scroll long enough and every life looks appealing: the woodworker, the marathoner, the
+      startup founder, the homesteader. Trying on each identity for a week leaves you with a
+      closet of costumes and no real craft. Choosing one path and staying through the dull
+      parts is where actual skill and satisfaction live.
+    practice: Unfollow three accounts that pull you toward hobbies you will never actually pursue.
+  - day: 15
+    title: Use It or Lose It
+    source: S
+    key: "Our luxuries have condemned us to weakness"
+    after: 0
+    before: 0
+    reflection: >
+      Elevators, delivery apps and autocomplete save effort, and that is mostly good. But
+      every ability left unused quietly shrinks: walking, cooking, writing a full paragraph,
+      fixing something yourself. Seneca noticed this after being carried around in comfort.
+      A little chosen effort each day keeps you able to do what life will eventually demand.
+    practice: Do one thing by hand today that you would normally outsource or automate.
+  - day: 16
+    title: No Shame in Help
+    source: M
+    key: "Be not ashamed to be helped"
+    after: 1
+    before: 0
+    reflection: >
+      Pride often dresses up as independence. You struggle alone with the spreadsheet, the
+      heavy couch, the diagnosis you do not understand, because asking feels like failing.
+      But the goal was always to get the job done, not to prove you could do it alone. A
+      boost over the wall still gets you over the wall.
+    practice: Ask one person for help with something you have been stubbornly handling alone.
+  - day: 17
+    title: Eat as You Ought
+    source: E
+    key: "On no occasion call yourself a philosopher"
+    after: 1
+    before: 0
+    reflection: >
+      Talking about good habits is easy and oddly satisfying. Explaining nutrition at a
+      barbecue, sharing productivity tips, posting about mindfulness. Epictetus would rather
+      you simply eat well, work well and stay calm, and let the results speak. Lecturing
+      others often replaces the practice instead of reflecting it.
+    practice: Keep one good habit today entirely to yourself, with no mention or post.
+  - day: 18
+    title: Built for the Struggle
+    source: S
+    key: "You may be sure that this refractory nature"
+    after: 1
+    before: 0
+    reflection: >
+      If self-discipline feels harder for you than for others, you are not broken. Seneca
+      assumes resistance is built in and plans for it. The answer is not to wait for the
+      struggle to vanish but to recruit allies: a workout partner, a mentor, a friend who
+      checks in. Obstacles are expected, and so is help.
+    practice: Text someone and ask them to check on one commitment you made this week.
+  - day: 19
+    title: On Purpose
+    source: M
+    key: "First, do nothing inconsiderately, nor without a purpose"
+    after: 1
+    before: 0
+    reflection: >
+      So much of a day happens on autopilot: opening apps, wandering into the kitchen, saying
+      yes to meetings. Two short rules cover a lot. Know why you are doing a thing, and let
+      that reason include other people. Even routine tasks change character when they are
+      chosen deliberately and done with someone else in mind.
+    practice: Before opening any app today, pause and name your reason for opening it.
+  - day: 20
+    title: Your Side of the Relationship
+    source: E
+    key: "Maintain then your own position towards him"
+    after: 0
+    before: 1
+    reflection: >
+      When a sibling, coworker or ex behaves badly, the instinct is to audit their every
+      move. That audit never ends and changes nothing. Epictetus redirects your attention to
+      your own conduct: what does a good brother, colleague or co-parent do here? That
+      question has an answer you can actually carry out.
+    practice: In one strained relationship, decide your next decent action without reviewing their faults.
+  - day: 21
+    title: Finish What You Laid Out
+    source: S
+    key: "I would not have you greater or better than you planned"
+    after: 0
+    before: 0
+    reflection: >
+      You may not need bigger goals. You may need to complete the ones already sketched: the
+      half-renovated bathroom, the course you paid for, the savings plan you set up and
+      ignored. Seneca tells his friend the foundations are already wide enough. The task now
+      is building on them, not drawing new blueprints.
+    practice: Choose one unfinished plan and write the three steps that would complete it.
+  - day: 22
+    title: One Act at a Time
+    source: M
+    key: "It is thy duty to order thy life well in every single act"
+    after: 1
+    before: 0
+    reflection: >
+      A whole well-lived life is too big to manage, but the next conversation or task is not.
+      Marcus breaks it down to single acts and notices that no one can stop you from doing
+      the current one fairly and carefully. A delay or a setback may change what you do,
+      never how well you do it.
+    practice: When a plan gets blocked today, ask what the best available next act is.
+  - day: 23
+    title: This I Can Do
+    source: E
+    key: "This power I possess; this I can do"
+    after: 1
+    before: 0
+    reflection: >
+      Short and plain, this is a useful sorting tool for an overloaded mind. Some things on
+      your plate are fully in your hands: your effort, your honesty, your tone. Others, like
+      the test results or the market, simply are not. Pour yourself into the first pile and
+      stop wearing yourself out on the second.
+    practice: Split your worry list into two columns and act on one item from the first.
+  - day: 24
+    title: Keep the Faith
+    source: S
+    key: "I do not know whether I shall make progress"
+    after: 0
+    before: 0
+    reflection: >
+      Seneca is trying to help a friend change, and he has no guarantee it will work. He
+      tries anyway. The same holds for coaching a struggling teenager, rebuilding your
+      health, or mending a marriage. Results are uncertain, but giving up in advance assures
+      failure. Effort offered in good faith is never wasted.
+    practice: Take one hopeful step today on a situation you had quietly written off.
+  - day: 25
+    title: Do Yours, Leave the Rest
+    source: M
+    key: "I do my duty: other things trouble me not"
+    after: 0
+    before: 0
+    reflection: >
+      A traffic jam, a broken printer, a coworker who has lost the plot. These are real, but
+      none of them is your assignment. Marcus keeps his attention narrow on purpose: what is
+      mine to do, and am I doing it? Everything else can be noted, handled if necessary, and
+      then released.
+    practice: Identify today's main duty and set aside one distraction that is not yours.
+  - day: 26
+    title: Watch Your Step
+    source: E
+    key: "as you take care not to step on a nail"
+    after: 0
+    before: 0
+    reflection: >
+      Walking barefoot in the garage, you instinctively look down. Epictetus asks for the
+      same alertness about your mind and character. A cutting reply, a cheated corner, a
+      lazy shortcut can wound you more than any nail. Treating your judgment as something
+      worth protecting makes every task safer to undertake.
+    practice: Before replying to a tense message today, pause long enough to check your footing.
+  - day: 27
+    title: Lifted by Something Larger
+    source: S
+    key: "No man of exalted gifts is pleased with that which is low and mean"
+    after: 0
+    before: 0
+    reflection: >
+      Part of you is never fully satisfied with scrolling, gossip and coasting. That
+      restlessness is not a defect. Seneca sees it as the mind being called toward better
+      work. When you feel it, do not numb it with another episode. Point it at something
+      worth the effort, even something small.
+    practice: When restlessness hits tonight, spend it on reading, building or helping someone.
+  - day: 28
+    title: The Good Deed Is Enough
+    source: M
+    key: "When thou hast done a good act and another has received it"
+    after: 0
+    before: 0
+    reflection: >
+      You covered a shift, helped a neighbor jump a car, stayed late for a worried family.
+      Then comes the urge for something more: a thank-you, credit, a favor returned. Marcus
+      calls that third thing unnecessary. The act happened, and someone benefited. Waiting
+      for acknowledgment only turns a gift into a quiet invoice.
+    practice: Do one kindness today and let it go without mentioning or tracking it.
+  - day: 29
+    title: One Person, Not Many
+    source: E
+    key: "you must either labor at things within or at external things"
+    after: 0
+    before: 0
+    reflection: >
+      You cannot fully pour yourself into your character and into chasing every outside
+      reward at once. Epictetus forces the choice. That does not mean neglecting your job or
+      your bills. It means deciding which comes first when they conflict, so you are not
+      split into a different person for each situation.
+    practice: Write one sentence naming what you will put first when goals collide this week.
+  - day: 30
+    title: Room Left to Add
+    source: S
+    key: "Much still remains to do, and much will always remain"
+    after: 0
+    before: 0
+    reflection: >
+      Some people find it discouraging that the work is never finished. Seneca finds it
+      hopeful. Every generation gets a chance to add something, whether that is a better
+      family tradition, a stronger team or a tidier garden. You do not have to complete
+      everything. You only have to leave your corner a little better.
+    practice: Choose one thing you inherited, at work or home, and improve it slightly today.
